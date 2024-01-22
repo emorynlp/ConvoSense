@@ -1,0 +1,12 @@
+# USAGE: pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
+tqdm
+transformers==4.33.1
+torch==2.0.1+cu118
+cattrs
+statsmodels
+matplotlib
+scipy
+openai
+tiktoken
+datasets
+nltk

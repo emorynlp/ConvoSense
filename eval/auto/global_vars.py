@@ -1,0 +1,6 @@
+ANSWER_ID_PROBS = 'answer_id_probs'
+BEAMED_GENERATIONS = 'beamed_generations'
+BEAMED_GENERATIONS_SCORES = 'beamed_generations_scores'
+BERTSCORE_MATRIX = 'bertscore_matrix'
+BLEU_MATRIX = 'bleu_matrix'
+EMBED_MATRIX = 'embed_matrix'

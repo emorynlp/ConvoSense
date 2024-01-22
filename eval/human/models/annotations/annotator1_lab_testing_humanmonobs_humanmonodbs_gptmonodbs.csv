@@ -1,0 +1,3097 @@
+Dialogue,Question,Answers,Group,Reasonability,Novelty
+"Listener (A): Hi Xena! It's been a while. How have you been?
+
+Speaker (B): I'm doing well, thank you. It's good to see you again. How have you been?
+
+Listener (A): I've been good. Just keeping busy as usual. So, what brings you here today?
+
+Speaker (B): I actually came to talk to you about something.",What might happen after what Speaker just said?,"(1) the speaker might ask the listener for their opinion on a matter.
+
+(2) the speaker might reveal that they have some exciting news to share with the listener.
+
+(3) the listener might feel a bit hesitant or uncertain about what the speaker wants to talk about.
+
+(4) the listener might ask the speaker what they want to talk about.
+
+(5) the speaker might reveal that they have a personal issue they want to discuss with the listener.","a, b, c, d, a","4, 4, 4, 4, 4","2, 3, 3, 2, 2"
+"Speaker (A): Hi , Dave . You're early .
+
+Listener (B): So you knew it was me ?
+
+Speaker (A): I had an idea .",What could have caused the last thing said to happen?,"(1) the speaker's intuition or gut feeling that the listener was going to be early.
+
+(2) the speaker having a premonition about dave's arrival.
+
+(3) a previous conversation where the speaker and listener had discussed a specific topic.
+
+(4) the listener's previous behavior or appearance that the speaker had noticed.
+
+(5) the listener's previous interactions with the speaker, which gave the speaker a sense of familiarity.","a, a, b, c, d","4, 3, 2, 4, 2","3, 3, 3, 3, 3"
+"Listener (A): Sorry . What was that you said ?
+
+Speaker (B): I'll meet you at the Gate round about seven .
+
+Listener (A): Where ?
+
+Speaker (B): At the Gate .
+
+Listener (A): When , did you say ?
+
+Speaker (B): Round about seven .
+
+Listener (A): Who's coming ?
+
+Speaker (B): Peter . Peter Brown , you know . Don't forget to bring the letter .",What prerequisites are required for the last thing said to occur?,"(1) peter brown has a letter that needs to be delivered to the listener.
+
+(2) the letter is important enough to be brought to the meeting.
+
+(3) the listener has the letter with them.
+
+(4) for this to happen, the speaker must have a letter that they need the listener to bring.
+
+(5) the speaker has a letter that needs to be delivered to the listener.","a, b, c, d, e","2, 4, 4, 4, 2","3, 3, 2, 2, 2"
+"Speaker (A): Sarah, that party was insane! I had the best time dancing all night.
+
+Listener (B): I know, right? It was so much fun! I'm glad we went.
+
+Speaker (A): Yeah, me too. I don't think I've ever danced that much in my life!",What could have caused the last thing said to happen?,"(1) The speaker went to a party with his friends.
+
+(2) The listener and the speaker went to a party.
+
+(3) Sarah and the speaker went to a party.
+
+(4) The speaker and the listener went to a party.
+
+(5) The speaker and sara went to a party.","a, a, a, a, a","4, 4, 4, 4, 4","2, 1, 1, 1, 1"
+"Speaker (A): tom , are n't you going to school this morning ?
+
+Listener (B): i called my head teacher and said i did n't feel well this morning .
+
+Speaker (A): then i 'll take you to the hospital .
+
+Listener (B): i will feel quite well after the football match this morning , mom .
+
+Speaker (A): why do you want to watch the football match ?",What is a breakdown of the last thing said into a series of required subevents?,"(1) expressing surprise or disbelief at the listener's choice to watch the football match.
+
+(2) the speaker is trying to understand the listener's reasoning for wanting to watch the football match.
+
+(3) questioning the listener's decision to watch the football match.
+
+(4) asking if the listener has any other plans or activities planned for the day.
+
+(5) expressing concern about the listener's health and well-being.","a, b, b, c, d","4, 4, 4, 3, 2","3, 2, 1, 3, 3"
+"Speaker (B): I think Tracy is going to leave me.
+
+Listener (A): Why would you say a thing like that?
+
+Speaker (B): We've struggled financially since day one of the marriage. And I just can't carry all the stress of being the only one working. So I told her she needed to get a job.",How is Speaker feeling after what they just said?,"(1) Frustrated
+
+(2) Angry
+
+(3) Concerned
+
+(4) Anxious
+
+(5) Worried","a, b, c, d, d","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): I'm so glad you like it!
+
+Speaker (B): I love it, thank you so much!
+
+Listener (A): It was no problem, I saw it and thought of you immediately.
+
+Speaker (B): It's so beautiful. I can't believe you got me a diamond ring!",What is a breakdown of the last thing said into a series of required subevents?,"(1) Get surprised
+
+(2) Feel happy
+
+(3) Think about
+
+(4) Find ring
+
+(5) Enjoy gift","a, b, c, d, e","4, 4, 1, 3, 4","2, 2, 1, 2, 2"
+"Speaker (B): I think Tracy is going to leave me.
+
+Listener (A): Why would you say a thing like that?
+
+Speaker (B): We've struggled financially since day one of the marriage. And I just can't carry all the stress of being the only one working. So I told her she needed to get a job.",How is Speaker feeling after what they just said?,"(1) frustrated that they can't find a solution to their financial struggles and is blaming tracy for it.
+
+(2) relieved to have finally addressed the issue of financial stress in the marriage.
+
+(3) anxious about the future of their marriage and the possibility of tracy leaving.
+
+(4) guilty for not being able to support tracy financially.
+
+(5) anxious and worried about the future of their marriage.","a, b, c, d, c","4, 4, 4, 4, 4","3, 3, 2, 3, 2"
+"Speaker (A): Wow. I can't believe everything you've been through, Sera.
+
+Listener (B): Yeah, it's been quite a ride.
+
+Speaker (A): I'm so sorry that happened to you.
+
+Listener (B): Thank you. It was tough at times, but I got through it.
+
+Speaker (A): I admire your strength and resilience. What made you keep going?",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker admires the listener's strength and resilience.
+
+(2) The speaker admires sera's strength and resilience.
+
+(3) The speaker is impressed by sera's strength and resilience.
+
+(4) The speaker is impressed by the listener's strength and resilience.
+
+(5) The speaker was impressed by the listener's strength and resilience.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (A): i 'm going to australia next year . are n't you from australia , beth ?
+
+Listener (B): actually i 'm from new zealand .
+
+Speaker (A): oh , i did n't know that . so what 's it look like there ?
+
+Listener (B): oh , it 's beautiful . there are lots of farms and it 's very mountainous .
+
+Speaker (A): really ? how high are the mountains ?
+
+Listener (B): well , the highest one is mount cook . it 's about 3800 meters high .
+
+Speaker (A): wow , so how far is new zealand from australia ?
+
+Listener (B): well , i live in auckland and it 's about 2000 kilometers from sydney .
+
+Speaker (A): maybe i should visit your country next year , too .",How does Listener feel because of what Speaker just said?,"(1) The listener is excited to visit new zealand next year.
+
+(2) The listener is excited to visit new zealand.
+
+(3) The listener was excited to visit new zealand next year.
+
+(4) The listener was excited to visit new zealand.
+
+(5) The listener is excited to visit new zealand with the speaker.","a, a, a, a, a","1, 1, 1, 1, 1","2, 2, 2, 2, 2"
+"Speaker (A): Hi! I'm just looking around today.
+
+Listener (B): Okay! Let me know if you need any help.
+
+Speaker (A): Thanks! I will. So, what's new at the store?",What will Listener want to do next based on what Speaker just said?,"(1) To see what's new
+
+(2) To learn more about the store
+
+(3) To see what is new
+
+(4) To find out what is new
+
+(5) To look at the new products","a, b, a, a, a","2, 2, 2, 2, 2","1, 1, 1, 1, 1"
+"Listener (B): Hey, I'm exhausted. I worked all day and I didn't even get a chance to eat lunch.
+
+Speaker (A): You worked all day without taking a break?
+
+Listener (B): Yeah, I was really busy. But it's okay, I'm used to it.
+
+Speaker (A): Well, you should take a break now and relax. You need to rest so you can be productive tomorrow.
+
+Listener (B): Yeah, you're right. I'll just lay down for a little bit and then maybe we can watch some TV or something.
+
+Speaker (A): Sounds good to me. Hey, I know you're exhausted, but do you want to talk for a little bit?
+
+Listener (B): Yeah, sure. What's up?
+
+Speaker (A): I was just flipping through the channels and there's nothing on. And I realized that we haven't really talked much lately. How are you doing?",What is a breakdown of the last thing said into a series of required subevents?,"(1) Think about other people
+
+(2) Have conversation
+
+(3) Think about others
+
+(4) Talk to each other
+
+(5) Talk to someone","a, b, a, b, b","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (B): let 's eat early today . then , maybe we can go to a movie afterwards .
+
+Listener (A): good idea . why do n't we have dinner around 6:00 o'clock ?
+
+Speaker (B): ok , and where do you want to meet ?",What will Listener want to do next based on what Speaker just said?,"(1) To meet the speaker
+
+(2) To go to the restaurant
+
+(3) To eat dinner
+
+(4) To have dinner
+
+(5) Go to restaurant","a, b, c, c, b","4, 3, 4, 4, 3","1, 2, 1, 1, 2"
+"Speaker (A): Hey, Sarah. What are you up to?
+
+Listener (B): Just hanging out. What about you?
+
+Speaker (A): I'm studying insects.",What does Speaker want to do next?,"(1) to conduct research on the impact of insects on the environment.
+
+(2) to publish their findings in a scientific journal.
+
+(3) to write a book about insects and their impact on the environment.
+
+(4) to create a website or blog to share their findings and inspire others to learn about insects.
+
+(5) to start a blog or youtube channel to share their findings with others.","a, b, c, d, d","4, 3, 3, 3, 3","3, 3, 3, 3, 3"
+"Listener (A): Sorry . What was that you said ?
+
+Speaker (B): I'll meet you at the Gate round about seven .
+
+Listener (A): Where ?
+
+Speaker (B): At the Gate .
+
+Listener (A): When , did you say ?
+
+Speaker (B): Round about seven .
+
+Listener (A): Who's coming ?
+
+Speaker (B): Peter . Peter Brown , you know . Don't forget to bring the letter .",What prerequisites are required for the last thing said to occur?,"(1) The speaker knows peter brown.
+
+(2) The speaker has to meet peter brown.
+
+(3) Mr. peter brown is the speaker's friend.
+
+(4) Peter brown had written a letter to the speaker.
+
+(5) Peter brown is the speaker's friend.","a, b, c, d, c","4, 4, 3, 2, 3","2, 2, 2, 2, 2"
+"Listener (A): Hey, Sarah. How are you doing today?
+
+Speaker (B): I'm doing well, thanks. How about you?
+
+Listener (A): I'm good. I just feel really alive lately and excited about life. I've been taking more risks and just being more daring in general. It's feels great.
+
+Speaker (B): That sounds amazing! I'm really happy for you, Amairany. It's great that you're feeling this way and exploring new things.",What is a likely characteristic of Speaker based on what they just said?,"(1) someone who values personal growth and self-discovery.
+
+(2) supportive and encouraging of others' growth and development.
+
+(3) likely someone who values personal growth and self-discovery.
+
+(4) a positive and encouraging person.
+
+(5) speaker may have experienced similar feelings of excitement and excitement in their own life.","a, b, a, b, c","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hey. How are you doing?
+
+Listener (B): I'm doing alright. How about you?
+
+Speaker (A): Good, good. Say, I've been meaning to talk to you about something for a while now.",What could have caused the last thing said to happen?,"(1) The listener asked the speaker about his health.
+
+(2) The speaker is a friend of the listener.
+
+(3) A wants to talk to B about something.
+
+(4) A wanted to discuss something with B.
+
+(5) Person A wants to talk to Person B about something.","a, b, c, c, c","2, 4, 4, 4, 4","2, 2, 1, 1, 1"
+"Speaker (A): I want you. I miss you and I really want to get back together.
+
+Listener (B): I missed you too. I'd love to get back together.
+
+Speaker (A): I'm so glad to hear that, Mayleen. I've been thinking about you a lot lately and I really want to try again.",How is Speaker feeling after what they just said?,"(1) Happy
+
+(2) Desperate
+
+(3) Hopeful
+
+(4) Proud
+
+(5) Excited","a, b, c, d, e","4, 4, 4, 2, 3","1, 2, 2, 2, 2"
+"Listener (A): Daddy, what's this?
+
+Speaker (B): It's a map of the United States, baby.",What prerequisites are required for the last thing said to occur?,"(1) The speaker's son is interested in maps.
+
+(2) A map of the united states is available in the house.
+
+(3) The speaker has a map of the united states.
+
+(4) The listener has a map of the united states.
+
+(5) There is a map of united states.","a, b, b, b, b","4, 4, 4, 3, 4","2, 1, 1, 1, 1"
+"Listener (A): I'm sorry about the mistake I made.
+
+Speaker (B): What exactly happened?
+
+Listener (A): I was working on the Smith account and I accidentally double-booked two appointments for Mr. Smith.
+
+Speaker (B): How did you book the appointments?",What is a likely characteristic of Speaker based on what they just said?,"(1) empathetic and wants to understand the situation better.
+
+(2) likely to be a supervisor or manager who oversees the listener's work.
+
+(3) interested in understanding the process of how appointments are booked.
+
+(4) interested in the details of the mistake.
+
+(5) a detail-oriented person who wants to understand how the mistake was made.","a, b, c, d, d","4, 4, 3, 4, 4","2, 3, 3, 2, 3"
+"Listener (A): I'm so glad you like it!
+
+Speaker (B): I love it, thank you so much!
+
+Listener (A): It was no problem, I saw it and thought of you immediately.
+
+Speaker (B): It's so beautiful. I can't believe you got me a diamond ring!",What is a breakdown of the last thing said into a series of required subevents?,"(1) Find ring
+
+(2) Think of gift
+
+(3) Choose ring
+
+(4) Get surprised
+
+(5) Think about it","a, b, c, d, b","3, 2, 4, 4, 3","1, 1, 1, 2, 1"
+"Listener (A): Hi Xena! It's been a while. How have you been?
+
+Speaker (B): I'm doing well, thank you. It's good to see you again. How have you been?
+
+Listener (A): I've been good. Just keeping busy as usual. So, what brings you here today?
+
+Speaker (B): I actually came to talk to you about something.",What might happen after what Speaker just said?,"(1) The listener asks xena about the reason she came to see him.
+
+(2) The listener asks xena about the reason she came to meet him.
+
+(3) The listener asks xena about the reason for her visit to her office.
+
+(4) The listener asks xena about the reason for her visit.
+
+(5) The listener asks xena about the reason for her visit to the office.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): I want you. I miss you and I really want to get back together.
+
+Listener (B): I missed you too. I'd love to get back together.
+
+Speaker (A): I'm so glad to hear that, Mayleen. I've been thinking about you a lot lately and I really want to try again.",How is Speaker feeling after what they just said?,"(1) a sense of relief that mayleen also wants to get back together.
+
+(2) hopeful that they can make things work with mayleen.
+
+(3) hopeful and optimistic about the possibility of getting back together with mayleen.
+
+(4) relieved that mayleen also wants to get back together.
+
+(5) relieved to have finally expressed their feelings to mayleen.","a, b, b, a, c","4, 4, 4, 4, 4","3, 2, 2, 2, 3"
+"Listener (A): The sky is so pretty today.
+
+Speaker (B): Yeah, it is. It's like a painting.
+
+Listener (A): I know! I can't believe how lucky we are to be able to see something so beautiful every day.
+
+Speaker (B): I know. Sometimes I take it for granted, but then I see a sunset like this and I'm just in awe all over again.",How does Listener feel because of what Speaker just said?,"(1) Impressed
+
+(2) Amazed
+
+(3) Proud
+
+(4) Happy
+
+(5) Interested","a, a, b, c, d","2, 2, 2, 4, 4","1, 1, 2, 2, 2"
+"Listener (A): Keenen, I need to speak with you.
+
+Speaker (B): Yes, Lindsey? What is it?
+
+Listener (A): I'm taking over your duties as head of security. You're no longer needed.
+
+Speaker (B): What? But why? I don't understand.
+
+Listener (A): Because I want to be in charge. And I can do a better job than you can.
+
+Speaker (B): But this is my job! I'm the one who's supposed to be in charge of security!",What will Listener want to do next based on what Speaker just said?,"(1) Lindsey wants to know why keenen is upset.
+
+(2) Lindsey wants to be in charge of security.
+
+(3) Lindsey wants keenen to accept his decision.
+
+(4) Lindsey wants Keenen to accept her decision.
+
+(5) Lindsey wants Keenen to accept his decision.","a, b, c, c, c","2, 4, 4, 4, 4","1, 1, 2, 2, 2"
+"Listener (A): You can't tell me what to do, Roxie. I'm not your slave.
+
+Speaker (B): I'm not trying to make you my slave, Keshon. I'm just asking you to take out the trash. It's not that big of a deal.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker wants to make Keshon feel like a slave.
+
+(2) The speaker is trying to be polite to the listener.
+
+(3) Roxie is trying to be polite to keshon.
+
+(4) Roxie wants to make Keshon feel like a slave.
+
+(5) Roxie is not trying to make Keshon her slave.","a, b, b, a, c","2, 3, 3, 2, 3","1, 2, 2, 1, 1"
+"Speaker (B): I think Tracy is going to leave me.
+
+Listener (A): Why would you say a thing like that?
+
+Speaker (B): We've struggled financially since day one of the marriage. And I just can't carry all the stress of being the only one working. So I told her she needed to get a job.",How is Speaker feeling after what they just said?,"(1) Concerned
+
+(2) Worried
+
+(3) Frustrated
+
+(4) Angry
+
+(5) Afraid","a, a, b, c, a","4, 4, 4, 4, 4","1, 2, 2, 2, 2"
+"Speaker (A): Hey, Sarah. What's up?
+
+Listener (B): Not much. Just hanging out. You?
+
+Speaker (A): I'm good. I just finished eating and was about to go to my hidden stash for later.
+
+Listener (B): That's sounds like a good plan. You're always so prepared.
+
+Speaker (A): Yeah, I just like to be prepared for anything. You never know when you're going to get hungry again.",What is a breakdown of the last thing said into a series of required subevents?,"(1) Get hungry
+
+(2) Find food
+
+(3) Eat
+
+(4) Eat
+
+(5) Eat food","a, b, c, c, c","4, 2, 4, 4, 4","2, 1, 1, 1, 1"
+"Speaker (A): Carson was ignoring me all day. He was really into his work.
+
+Listener (B): Why did you stay there then?
+
+Speaker (A): I didn't. I left so he could focus, but I was really hoping to hang out with him.",What is a likely characteristic of Speaker based on what they just said?,"(1) The speaker is a devoted friend.
+
+(2) A is a good friend.
+
+(3) The speaker is a kind and caring person.
+
+(4) A is a hopeless romantic.
+
+(5) Person A likes to be around people.","a, a, b, c, d","4, 4, 4, 3, 4","2, 2, 3, 3, 3"
+"Listener (A): Treston, do you like animals?
+
+Speaker (B): Yes, I love animals. I have a dog and a cat. I take my dog for walks every day.
+
+Listener (A): That's so cool! I love animals too. I have a dog and two cats. I take my dog for walks every day too.
+
+Speaker (B): That's great! What kind of dogs do you have?
+
+Listener (A): I have a golden retriever and a German shepherd.
+
+Speaker (B): I have aLabrador retriever and a golden retriever. Do you like to go hiking with your dogs?",What will Listener want to do next based on what Speaker just said?,"(1) to share a funny story about a time they went hiking with their dogs and got lost.
+
+(2) to ask speaker if they have any tips for hiking with dogs.
+
+(3) to invite speaker to join them on a hiking trip with their dogs.
+
+(4) to know what kind of hiking trails speaker likes to go on with their dogs.
+
+(5) to ask speaker if they have any recommendations for dog-friendly hiking trails in the area.","a, b, c, d, e","3, 3, 3, 4, 3","3, 3, 3, 3, 3"
+"Listener (A): Daddy, what's this?
+
+Speaker (B): It's a map of the United States, baby.",What prerequisites are required for the last thing said to occur?,"(1) The speaker bought a map of united states for his son.
+
+(2) The speaker bought a map of the united states for his son.
+
+(3) The speaker has a map of the united states.
+
+(4) The speaker has a map of the united states of america.
+
+(5) There is a map of the united states.","a, a, b, b, b","3, 3, 4, 4, 4","3, 3, 1, 1, 1"
+Speaker (A): May I help you ?,What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) by a sense of responsibility to assist others.
+
+(2) by a sense of duty or responsibility to assist others.
+
+(3) by empathy and a desire to alleviate the other person's stress or burden.
+
+(4) by a desire to make a positive impact on someone's day.
+
+(5) by a desire to be helpful and make a positive impact on others.","a, a, b, c, c","4, 4, 4, 4, 4","2, 2, 3, 3, 3"
+Speaker (B): The doctor said I have high blood pressure and need to lose about 50 pounds.,What is a likely characteristic of Speaker based on what they just said?,"(1) likely to prioritize their health and well-being.
+
+(2) speaker may have a family history of high blood pressure or other health issues that require attention.
+
+(3) speaker may have a tendency to overeat or indulge in unhealthy foods.
+
+(4) likely to be motivated to make lifestyle changes to improve their health.
+
+(5) someone who may have a tendency to overeat or indulge in unhealthy foods.","a, b, c, d, c","2, 3, 4, 4, 4","2, 3, 3, 3, 3"
+"Speaker (B): i like cooking macrobiotic and healthy food and working out at the gym
+
+Listener (A): what is macrobiotic food ? my best friend is my mother
+
+Speaker (B): things like whole grains . i drink at bars so i have to stay healthy
+
+Listener (A): you should not drink a lot , its bad for you
+
+Speaker (B): well that is where i meet women , at bars . so i end up drinking",What will Listener want to do next based on what Speaker just said?,"(1) to ask speaker if they have ever considered going to a sober dating agency instead of going to bars.
+
+(2) to share their own experience of meeting women at bars and how it affected their life.
+
+(3) as a result, listener may want to suggest alternative ways for speaker to meet women that don't involve drinking.
+
+(4) to suggest alternative ways for speaker to meet women that don't involve drinking.
+
+(5) to suggest that speaker try a different way of meeting women, such as a coffee shop or a restaurant.","a, b, c, c, c","4, 3, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hey, what's going on?
+
+Listener (B): Just doing my homework.
+
+Speaker (A): Good. You need to keep up with your studies. I don't want you falling behind.
+
+Listener (B): I won't, Dad. I promise.
+
+Speaker (A): Good. I also want you to keep your room clean. It's important to have a tidy space so you can focus on your studies and not be distracted by messes.
+
+Listener (B): Okay, Dad. I'll make sure to keep my room clean from now on.
+
+Speaker (A): Thank you, sweetie. I just want what's best for you.
+
+Listener (B): I know, Dad. I love you.
+
+Speaker (A): I love you too, sweetheart.",How is Speaker feeling after what they just said?,"(1) Appreciative
+
+(2) Proud, happy
+
+(3) Proud
+
+(4) Loved
+
+(5) Compassionate","a, b, b, c, d","4, 4, 4, 4, 4","1, 2, 2, 1, 1"
+"Listener (A): Can we have two tickets for seven thirty ?
+
+Speaker (B): Yes , and would you like to have seats in the front or at the back ?
+
+Listener (A): In the front , please .
+
+Speaker (B): That's 35 yuan each .",What prerequisites are required for the last thing said to occur?,"(1) the speaker has the authority to sell tickets.
+
+(2) the speaker is authorized to sell tickets for the event.
+
+(3) for this to happen, the listener must have provided their contact information to the speaker.
+
+(4) the listener has enough money to pay for the tickets.
+
+(5) the listener has enough money to pay for the tickets.","a, a, b, c, c","4, 4, 3, 4, 4","2, 2, 3, 3, 3"
+"Listener (A): hey jennie , saturday is my birthday , and i was wondering if you 'd like to come to my party ? you can come along with your brother .
+
+Speaker (B): oh , i 'm sorry . i think i may already have plans to go to my grandparents house with my father .
+
+Listener (A): ok , i hope you have a good time .
+
+Speaker (B): thank you and i hope your party 's fun . anyway , see you in class on monday .",What does Speaker want to do next?,"(1) Have fun
+
+(2) To go to class
+
+(3) To see the listener
+
+(4) Go to class
+
+(5) To have fun","a, b, c, b, a","3, 3, 2, 3, 3","2, 1, 1, 1, 2"
+"Listener (A): Do you ever feel like time is just passing you by, and you can't quite grasp it?
+
+Speaker (B): Yes, all the time. I feel like I'm in a constant state of motion, but I'm not really going anywhere. It's like my life is just one big blur.",How does Listener feel because of what Speaker just said?,"(1) Concerned for the speaker
+
+(2) Proud
+
+(3) Concerned about the speaker
+
+(4) Concerned
+
+(5) Sympathetic","a, b, a, a, c","4, 2, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Treston, do you like animals?
+
+Speaker (B): Yes, I love animals. I have a dog and a cat. I take my dog for walks every day.
+
+Listener (A): That's so cool! I love animals too. I have a dog and two cats. I take my dog for walks every day too.
+
+Speaker (B): That's great! What kind of dogs do you have?
+
+Listener (A): I have a golden retriever and a German shepherd.
+
+Speaker (B): I have aLabrador retriever and a golden retriever. Do you like to go hiking with your dogs?",What will Listener want to do next based on what Speaker just said?,"(1) To go hiking with the dogs
+
+(2) To go on a hike
+
+(3) To go hiking with the dog
+
+(4) To go for a hike
+
+(5) To go hiking","a, a, a, a, a","3, 3, 3, 3, 3","2, 2, 2, 2, 2"
+"Listener (A): Can we have two tickets for seven thirty ?
+
+Speaker (B): Yes , and would you like to have seats in the front or at the back ?
+
+Listener (A): In the front , please .
+
+Speaker (B): That's 35 yuan each .",What prerequisites are required for the last thing said to occur?,"(1) There is a ticket counter at the railway station.
+
+(2) There is a ticket counter in the train station.
+
+(3) The tickets are available at the counter.
+
+(4) The tickets are available at the ticket counter.
+
+(5) There is a ticket counter at the train station.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Listener (A): I'm sorry about the mistake I made.
+
+Speaker (B): What exactly happened?
+
+Listener (A): I was working on the Smith account and I accidentally double-booked two appointments for Mr. Smith.
+
+Speaker (B): How did you book the appointments?",What is a likely characteristic of Speaker based on what they just said?,"(1) The listener is careless.
+
+(2) The speaker is responsible.
+
+(3) The listener is a responsible employee.
+
+(4) The speaker is a responsible person.
+
+(5) The speaker is a responsible employee.","a, b, c, b, b","1, 4, 1, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): tom , are n't you going to school this morning ?
+
+Listener (B): i called my head teacher and said i did n't feel well this morning .
+
+Speaker (A): then i 'll take you to the hospital .
+
+Listener (B): i will feel quite well after the football match this morning , mom .
+
+Speaker (A): why do you want to watch the football match ?",What is a breakdown of the last thing said into a series of required subevents?,"(1) Think about it
+
+(2) Think about
+
+(3) Have fun
+
+(4) Watch game
+
+(5) Watch match","a, a, b, c, c","2, 2, 4, 4, 4","1, 1, 2, 1, 1"
+"Speaker (A): I'm so excited to vote for the first time in my life!
+
+Listener (B): Me too! I can't believe we're finally old enough to make our voices heard.
+
+Speaker (A): I know, it's crazy! I feel like this is going to be a really important election.
+
+Listener (B): Definitely. There's so much at stake this year.
+
+Speaker (A): I'm just glad that we can finally have a say in what happens.
+
+Listener (B): Absolutely. Voting is one of the most important things you can do as a citizen.
+
+Speaker (A): I know, and I'm just glad that we're finally old enough to do it. Sarah, can I ask you something?
+
+Listener (B): Of course!
+
+Speaker (A): Who are you voting for?",What prerequisites are required for the last thing said to occur?,"(1) Sarah is eligible to vote.
+
+(2) Sarah is a citizen of the united states.
+
+(3) Sarah is a citizen of the country.
+
+(4) Sarah is voting for the first time.
+
+(5) The speaker is voting for the first time.","a, b, b, c, c","4, 4, 4, 4, 4","1, 2, 1, 1, 1"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",How is Speaker feeling after what they just said?,"(1) content with their current activity of watching tv.
+
+(2) a bit bored with their current activity.
+
+(3) relaxed and content with their current activity.
+
+(4) relaxed and content with their current activity of watching tv.
+
+(5) speaker may be feeling bored or uninterested in the conversation.","a, b, a, a, b","3, 4, 3, 3, 2","1, 2, 1, 1, 2"
+"Speaker (A): Friend: Pierre, what's wrong? You look like you're about to panic.
+
+Listener (B): I am! I feel so overwhelmed and excited, my heart is racing and I can't catch my breath.
+
+Speaker (A): Okay, let's try to calm down. Take a few deep breaths with me. Inhale... and exhale slowly. There you go. Now, tell me what's got you so worked up.",What is a likely characteristic of Speaker based on what they just said?,"(1) A caring friend who is willing to help.
+
+(2) The speaker is calm and patient.
+
+(3) A caring friend who is willing to help
+
+(4) The speaker is a caring friend.
+
+(5) A is a caring friend.","a, b, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Hey, Sarah. How are you doing today?
+
+Speaker (B): I'm doing well, thanks. How about you?
+
+Listener (A): I'm good. I just feel really alive lately and excited about life. I've been taking more risks and just being more daring in general. It's feels great.
+
+Speaker (B): That sounds amazing! I'm really happy for you, Amairany. It's great that you're feeling this way and exploring new things.",What is a likely characteristic of Speaker based on what they just said?,"(1) Sarah is a positive person.
+
+(2) The speaker is supportive and encouraging.
+
+(3) The speaker is caring and supportive.
+
+(4) Sarah is a supportive friend.
+
+(5) Sarah is a caring friend.","a, b, b, b, b","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .",What is a breakdown of the last thing said into a series of required subevents?,"(1) Have fun
+
+(2) To have fun
+
+(3) Get drunk
+
+(4) Enjoy yourself
+
+(5) Learn new things","a, a, b, c, d","4, 4, 4, 4, 3","1, 1, 2, 1, 2"
+"Listener (A): Hey Mr. Teacher, I'm really sorry about my paper.
+
+Speaker (B): What happened?
+
+Listener (A): Well, I forgot to put a space between ""I"" and ""am"" and as a result the whole paper looked like one big run-on sentence.
+
+Speaker (B): That sounds like a pretty careless mistake.
+
+Listener (A): Yeah, I know. I'm really sorry about it.
+
+Speaker (B): Well, you should be more careful in the future when you're writing papers for school.",What might happen after what Speaker just said?,"(1) The listener will be more careful in the future.
+
+(2) The listener will take note of the speaker's advice.
+
+(3) The listener will not make the same mistake in the future.
+
+(4) The listener will write a better paper in the future.
+
+(5) The listener will not make the same mistake again.","a, b, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (B): let 's eat early today . then , maybe we can go to a movie afterwards .
+
+Listener (A): good idea . why do n't we have dinner around 6:00 o'clock ?
+
+Speaker (B): ok , and where do you want to meet ?",What will Listener want to do next based on what Speaker just said?,"(1) to confirm the movie time and location with speaker.
+
+(2) to ask speaker if they can meet at a specific restaurant or theater.
+
+(3) to suggest a specific restaurant for lunch.
+
+(4) to suggest a specific restaurant or movie theater to meet at.
+
+(5) to ask speaker if they can bring any snacks or drinks to the movie theater.","a, b, b, b, c","4, 4, 2, 4, 4","3, 2, 2, 2, 3"
+"Listener (A): where are you from ?
+
+Speaker (B): the united states . i live in new york .
+
+Listener (A): oh really ? i think it 's a big city with a large population , right ? by the way do you like it ?
+
+Speaker (B): yeah , i think it 's the only place to live in .
+
+Listener (A): why do you say that ?
+
+Speaker (B): you see , there 's always something exciting to do and it 's never boring .",What might happen after what Speaker just said?,"(1) A asks B what they like about new york..
+
+(2) The listener agrees with the speaker's statement.
+
+(3) A agrees with B.
+
+(4) A asks B what they like about new york.
+
+(5) Person B shows Person A around new york city.","a, b, b, a, c","2, 4, 4, 2, 4","1, 2, 2, 1, 3"
+"Listener (A): Hello, Ultimate Computers. May I help you?
+
+Speaker (B): Yes, this is Jack Kordell from Hunter's Office Supplies. May I speak to Elaine Strong, please?
+
+Listener (A): I'm sorry, but she's not in right now. She should be here later in the afternoon, maybe about 4:30. May I take a message?
+
+Speaker (B): Yes. Ms. Strong sent me your newest line of laptop computers with a description of other software products, but there wasn't any information about after sales service.
+
+Listener (A): Oh, I'm sorry. Would you like me to fax that to you?
+
+Speaker (B): Yes. Could you try sending that information around 3:30? That should give me time to look over the material before I call Ms. Strong, say, around 5:00.
+
+Listener (A): Sure. Could I have your name, telephone number, and fax number, please?
+
+Speaker (B): Yes. Jack Kordell and the phone number is 560 1287. And the fax number is 560 1288.
+
+Listener (A): All right. I'll be sure to send you the fax this afternoon.
+
+Speaker (B): Okay, bye.",How does Listener feel because of what Speaker just said?,"(1) A is happy to help B.
+
+(2) Jack kordell is happy to get the fax.
+
+(3) The listener is happy to help the speaker.
+
+(4) Jack was satisfied with the listener's response.
+
+(5) A is relieved that they will be able to send the information to B.","a, b, a, b, a","4, 1, 4, 1, 4","2, 2, 2, 2, 2"
+"Listener (A): Hi, Taraji. How are you doing today?
+
+Speaker (B): I'm doing fine, thank you. Just working on my math homework.
+
+Listener (A): Do you need any help with that?
+
+Speaker (B): Yeah, I could use some help. Thank you.
+
+Listener (A): Let's take a look. What are you working on?
+
+Speaker (B): I'm working on this problem where I have to find the perimeter of this shape.",What does Speaker want to do next?,"(1) To finish the homework
+
+(2) To solve the problem
+
+(3) To complete the problem
+
+(4) To finish the problem
+
+(5) To complete the homework","a, b, b, b, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Do you ever feel like time is just passing you by, and you can't quite grasp it?
+
+Speaker (B): Yes, all the time. I feel like I'm in a constant state of motion, but I'm not really going anywhere. It's like my life is just one big blur.",How does Listener feel because of what Speaker just said?,"(1) Interested
+
+(2) Concerned
+
+(3) Worried
+
+(4) Sympathetic and sympathetic.
+
+(5) Sympathetic","a, b, b, c, c","3, 4, 4, 1, 4","2, 2, 2, 2, 2"
+"Speaker (A): Carson was ignoring me all day. He was really into his work.
+
+Listener (B): Why did you stay there then?
+
+Speaker (A): I didn't. I left so he could focus, but I was really hoping to hang out with him.",What is a likely characteristic of Speaker based on what they just said?,"(1) someone who is willing to compromise in order to achieve their goals.
+
+(2) a social person who enjoys spending time with others.
+
+(3) someone who values their friend's work and doesn't want to disrupt it.
+
+(4) speaker may have difficulty balancing their work and social life.
+
+(5) speaker values their friend's work and doesn't want to disrupt it.","a, b, c, d, c","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): ""Sure thing, boss. I'll be sure to take notes on the new project.""
+
+Listener (B): ""Great. So, as you know, we're starting a new project soon, and I want you to be a part of it.""
+
+Speaker (A): ""Absolutely. I'm excited to get started.""
+
+Listener (B): ""Good. The project is going to be a bit challenging, but I think you're up for it.""
+
+Speaker (A): ""I'm definitely up for the challenge. Can you tell me more about the project?""",What could have caused the last thing said to happen?,"(1) The listener informed the speaker that the new project would be challenging.
+
+(2) The speaker is excited to start the new project.
+
+(3) B wants A to be a part of the new project.
+
+(4) The listener has informed the speaker that the new project will be challenging.
+
+(5) A wants to know more about the project.","a, b, c, a, d","4, 4, 4, 4, 4","2, 1, 1, 2, 2"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",What is a likely characteristic of Speaker based on what they just said?,"(1) Interested
+
+(2) Enjoyable
+
+(3) Enjoyable
+
+(4) Undemanding
+
+(5) Loving","a, b, b, c, d","3, 4, 4, 3, 2","2, 1, 1, 2, 2"
+"Speaker (A): Hey, congratulations on winning the contest!
+
+Listener (B): Thank you so much! I can't believe it.
+
+Speaker (A): Your story was really great. I loved the way you developed the characters and the plot.
+
+Listener (B): Thank you. I'm glad you enjoyed it.
+
+Speaker (A): So, what are you going to do with your prize money?",What does Speaker want to do next?,"(1) To buy something
+
+(2) To spend the money
+
+(3) To spend the prize money
+
+(4) To enjoy the money
+
+(5) To enjoy the prize money","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): Hi , Dave . You're early .
+
+Listener (B): So you knew it was me ?
+
+Speaker (A): I had an idea .",What could have caused the last thing said to happen?,"(1) The listener was late for the meeting.
+
+(2) The speaker was a good friend of dave.
+
+(3) A wanted to tell B that they were early.
+
+(4) Dave was late for the meeting.
+
+(5) A wanted to know how B knew it was him.","a, b, c, a, d","1, 4, 4, 1, 1","2, 3, 2, 2, 2"
+"Speaker (A): Hey, Sarah. What are you up to?
+
+Listener (B): Just hanging out. What about you?
+
+Speaker (A): I'm studying insects.",What does Speaker want to do next?,"(1) Go to the library
+
+(2) To learn more
+
+(3) To study insects more
+
+(4) To study insects
+
+(5) Learn more about insects","a, b, b, b, b","4, 4, 4, 4, 4","3, 1, 1, 1, 1"
+"Speaker (A): Hi! I'm just looking around today.
+
+Listener (B): Okay! Let me know if you need any help.
+
+Speaker (A): Thanks! I will. So, what's new at the store?",What will Listener want to do next based on what Speaker just said?,"(1) to suggest some new products that they think speaker might like.
+
+(2) to offer the speaker a discount on a specific item.
+
+(3) to inform speaker about the latest promotions and discounts available at the store.
+
+(4) to ask speaker if they have any specific items in mind and offer suggestions based on their interests.
+
+(5) to offer speaker a discount on a product they are interested in.","a, b, b, c, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): Hey there, I'm Trayton.
+
+Speaker (B): Hey! I'm Tyrion. Nice to meet you.
+
+Listener (A): Likewise. So, what brings you here tonight?
+
+Speaker (B): Just wanted to have some fun and meet new people. You?
+
+Listener (A): Same here. Say, you're pretty single, right? Maybe we could go out sometime?
+
+Speaker (B): I don't know...are you asking me on a date?",How is Speaker feeling after what they just said?,"(1) Unsure
+
+(2) Excited
+
+(3) Nervous
+
+(4) Interested
+
+(5) Confused","a, b, c, d, a","4, 3, 4, 4, 3","2, 2, 2, 2, 2"
+Speaker (A): batina and simon are getting married next month .,What does Speaker want to do next?,"(1) To celebrate the wedding
+
+(2) Go to wedding party
+
+(3) Go to wedding
+
+(4) To attend the wedding
+
+(5) Get married","a, a, a, a, b","4, 4, 4, 4, 3","2, 2, 2, 2, 2"
+"Listener (A): You're spending a very long time on my hair .
+
+Speaker (B): I'm almost done .
+
+Listener (A): I needed you to be done and finished an hour ago .
+
+Speaker (B): I'm all done now .
+
+Listener (A): Are you sure you're finished ?
+
+Speaker (B): I don't understand .
+
+Listener (A): You did a horrible job on my hair .
+
+Speaker (B): What's wrong with it ?
+
+Listener (A): I don't like anything about it .
+
+Speaker (B): I apologize .
+
+Listener (A): That's fine , but I'm not paying for it .
+
+Speaker (B): Excuse me ? Let's try to work this out , okay ?",How does Listener feel because of what Speaker just said?,"(1) annoyed that speaker is not taking responsibility for their mistake and is trying to avoid paying for it.
+
+(2) resentful towards speaker for not taking responsibility for their mistake and not offering an apology.
+
+(3) frustrated and annoyed that speaker is not taking responsibility for their mistake.
+
+(4) frustrated that speaker is not taking responsibility for their mistake.
+
+(5) hesitant to work with speaker because they don't trust their skills.","a, b, b, b, c","1, 2, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .",What is a breakdown of the last thing said into a series of required subevents?,"(1) suggesting that the speaker's interests are not as well-rounded as the listener's
+
+(2) acknowledging that the speaker's hobbies are not as well-rounded as the listener's.
+
+(3) suggesting that the speaker's interests are not as well-rounded as the listener's.
+
+(4) implying that the speaker's interests are not as well-rounded as the listener's.
+
+(5) the speaker implying that they do not prioritize education or learning.","a, a, a, a, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",How is Speaker feeling after what they just said?,"(1) Happy
+
+(2) Interested
+
+(3) Enjoyable
+
+(4) Relaxed
+
+(5) Amused","a, b, a, c, d","4, 3, 3, 4, 3","2, 2, 2, 2, 2"
+Speaker (A): batina and simon are getting married next month .,What does Speaker want to do next?,"(1) To enjoy the wedding
+
+(2) To celebrate the wedding
+
+(3) To attend the wedding.
+
+(4) To attend the wedding
+
+(5) To go to the wedding","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): Hey, Sarah.
+
+Listener (B): Hey, Dacoda. How are you doing?
+
+Speaker (A): I'm alright. Just been feeling really down lately.",What prerequisites are required for the last thing said to occur?,"(1) Sarah asked dacoda how he was.
+
+(2) Sarah asked dacoda how he is doing.
+
+(3) Sarah asked dacoda about his health.
+
+(4) Sarah asked dacoda how he was doing.
+
+(5) Sarah asked dacoda if he was okay.","a, a, a, a, a","1, 1, 1, 1, 1","1, 1, 1, 1, 1"
+"Speaker (A): Hey, Sarah.
+
+Listener (B): Hey, Dacoda. How are you doing?
+
+Speaker (A): I'm alright. Just been feeling really down lately.",What prerequisites are required for the last thing said to occur?,"(1) Sarah is a friend of dacoda.
+
+(2) Dacoda is a student.
+
+(3) Sarah asked dacoda how he was doing.
+
+(4) The speaker is not feeling well.
+
+(5) The speaker is not feeling well. the speaker is not feeling well.","a, b, c, d, d","4, 2, 1, 4, 4","2, 2, 1, 1, 1"
+"Speaker (A): Hey, congratulations on winning the contest!
+
+Listener (B): Thank you so much! I can't believe it.
+
+Speaker (A): Your story was really great. I loved the way you developed the characters and the plot.
+
+Listener (B): Thank you. I'm glad you enjoyed it.
+
+Speaker (A): So, what are you going to do with your prize money?",What does Speaker want to do next?,"(1) to know if the listener plans to use the prize money to publish their story.
+
+(2) to ask the listener if they have any plans to enter the contest again in the future.
+
+(3) to offer to help the listener with any marketing or promotion efforts related to the contest.
+
+(4) to suggest that the listener enter the contest again next year.
+
+(5) to recommend the listener to a literary agent who can help them get their work published.","a, b, c, b, d","4, 4, 3, 4, 3","3, 3, 3, 3, 3"
+"Listener (A): Hi , Mary , I have decided to look for a job as a salesman .
+
+Speaker (B): Good ! Have you got the recruitment information on marketing ?
+
+Listener (A): Yes . I have found some through different channels .
+
+Speaker (B): Really ? That's great ! Tell me .",What might happen after what Speaker just said?,"(1) The listener tells the speaker that he has applied for a job in marketing.
+
+(2) The listener informed the speaker that he had applied for a job in marketing.
+
+(3) The listener informs the speaker that he has applied for a job in marketing.
+
+(4) The listener informed the speaker that he had applied for a job as a salesman.
+
+(5) The listener told the speaker that he had applied for a job in marketing.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Good morning, Madam. Can I help you?
+
+Speaker (B): Yes, er...I want to see the West End.
+
+Listener (A): How much time do you have?
+
+Speaker (B): Just one day.
+
+Listener (A): Well, what do you particularly want to do?
+
+Speaker (B): I want to visit museums, art galleries, Buckingham Palace, do some shopping, and go to the theaters.
+
+Listener (A): But you only have one day.
+
+Speaker (B): That's right.
+
+Listener (A): Well. Why not do some shopping first?
+
+Speaker (B): Where can I do that?
+
+Listener (A): In Oxford Street.
+
+Speaker (B): How can I get there?
+
+Listener (A): You can walk through Hyde Park. It's quite near.
+
+Speaker (B): Wonderful. Thanks for your help.",What could have caused the last thing said to happen?,"(1) The listener has helped the speaker to reach oxford street.
+
+(2) The listener helped the speaker in reaching oxford street.
+
+(3) The listener helped the speaker in getting to oxford street.
+
+(4) The listener helped the speaker to reach oxford street.
+
+(5) The listener helped the speaker to reach the oxford street.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Listener (A): Hi, I'm looking for a book by J.K. Rowling.
+
+Speaker (B): Yes, we have several of her books. which one are you looking for?
+
+Listener (A): I saw on TV that she has a new book out and I wanted to read it.
+
+Speaker (B): Ah, yes. The new book is called ""The Casual Vacancy."" It's about a small town that's shaken up when one of the town members dies unexpectedly.",What might happen after what Speaker just said?,"(1) B recommends the book to A.
+
+(2) A asks B about the plot of the book.
+
+(3) The speaker will buy the book.
+
+(4) The listener will buy the book..
+
+(5) The listener will buy the book.","a, b, c, d, d","4, 4, 2, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .",What is a breakdown of the last thing said into a series of required subevents?,"(1) Go out with friends
+
+(2) Having fun
+
+(3) Spend time with friends
+
+(4) Have fun
+
+(5) Find fun to do","a, b, a, b, b","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Listener (A): Hi, I'm looking for a book by J.K. Rowling.
+
+Speaker (B): Yes, we have several of her books. which one are you looking for?
+
+Listener (A): I saw on TV that she has a new book out and I wanted to read it.
+
+Speaker (B): Ah, yes. The new book is called ""The Casual Vacancy."" It's about a small town that's shaken up when one of the town members dies unexpectedly.",What might happen after what Speaker just said?,"(1) The listener buys the book.
+
+(2) The listener buys the book from the store.
+
+(3) The listener buys the book and reads it.
+
+(4) The listener buys the book from the speaker's store.
+
+(5) The listener buys the book from the speaker.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Do you ever feel like time is just passing you by, and you can't quite grasp it?
+
+Speaker (B): Yes, all the time. I feel like I'm in a constant state of motion, but I'm not really going anywhere. It's like my life is just one big blur.",How does Listener feel because of what Speaker just said?,"(1) empathetic towards speaker's experience of time passing by.
+
+(2) curious about what specifically is causing speaker to feel like time is passing them by.
+
+(3) reflective and wonders if there is anything they can do to slow down the passage of time.
+
+(4) inspired to make the most of their time and make the most of their experiences.
+
+(5) a sense of empathy towards speaker's experience of time passing by.","a, b, c, d, a","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Wow. I can't believe everything you've been through, Sera.
+
+Listener (B): Yeah, it's been quite a ride.
+
+Speaker (A): I'm so sorry that happened to you.
+
+Listener (B): Thank you. It was tough at times, but I got through it.
+
+Speaker (A): I admire your strength and resilience. What made you keep going?",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) A wanted to show their admiration for B.
+
+(2) The speaker was impressed with sera's strength and resilience.
+
+(3) The speaker is impressed by the listener's strength and resilience.
+
+(4) Sera's friend is impressed by her resilience.
+
+(5) A wants to know what made B keep going.","a, b, b, b, c","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (B): i like cooking macrobiotic and healthy food and working out at the gym
+
+Listener (A): what is macrobiotic food ? my best friend is my mother
+
+Speaker (B): things like whole grains . i drink at bars so i have to stay healthy
+
+Listener (A): you should not drink a lot , its bad for you
+
+Speaker (B): well that is where i meet women , at bars . so i end up drinking",What will Listener want to do next based on what Speaker just said?,"(1) To have a drink
+
+(2) To go to the bar
+
+(3) To go out with the speaker
+
+(4) To go to a bar
+
+(5) To stop drinking","a, a, b, a, c","2, 2, 3, 2, 4","2, 1, 2, 1, 2"
+"Speaker (A): Hey, Sarah. What's up?
+
+Listener (B): Not much. Just hanging out. You?
+
+Speaker (A): I'm good. I just finished eating and was about to go to my hidden stash for later.
+
+Listener (B): That's sounds like a good plan. You're always so prepared.
+
+Speaker (A): Yeah, I just like to be prepared for anything. You never know when you're going to get hungry again.",What is a breakdown of the last thing said into a series of required subevents?,"(1) being mindful of one's surroundings and being aware of potential food sources.
+
+(2) recognizing that hunger can strike at any time and being proactive about preparing for it.
+
+(3) keeping a stash of food in a hidden location to ensure that it is always available when needed.
+
+(4) a belief that one should always have a stash of food on hand to avoid going hungry.
+
+(5) having a stash of food that can be easily accessed and stored for later.","a, b, c, c, c","4, 4, 4, 4, 4","3, 1, 2, 2, 2"
+"Speaker (A): Hey, Sarah. How's it going?
+
+Listener (B): Not too bad. How are you?
+
+Speaker (A): I'm good. Just been busy with work and stuff.
+
+Listener (B): Yeah, I can imagine. So, what's new with you?
+
+Speaker (A): Same old, same old. Just working and hanging out with friends. You know how it is.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker wants to let the listener know how he is doing.
+
+(2) The speaker wants to share his life with the listener.
+
+(3) The speaker wants to share his daily routine with the listener.
+
+(4) The speaker wants to let the listener know about his daily routine.
+
+(5) The speaker wants to let the listener know that he is fine.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Listener (A): Hey, Sarah. How are you doing today?
+
+Speaker (B): I'm doing well, thanks. How about you?
+
+Listener (A): I'm good. I just feel really alive lately and excited about life. I've been taking more risks and just being more daring in general. It's feels great.
+
+Speaker (B): That sounds amazing! I'm really happy for you, Amairany. It's great that you're feeling this way and exploring new things.",What is a likely characteristic of Speaker based on what they just said?,"(1) Happy, caring, supportive, encouraging
+
+(2) Happy
+
+(3) Sarah is a supportive friend.
+
+(4) The speaker is optimistic.
+
+(5) Sarah is optimistic and encouraging.","a, b, a, b, a","4, 4, 4, 4, 4","2, 1, 2, 2, 2"
+"Listener (A): Hey there, I'm Trayton.
+
+Speaker (B): Hey! I'm Tyrion. Nice to meet you.
+
+Listener (A): Likewise. So, what brings you here tonight?
+
+Speaker (B): Just wanted to have some fun and meet new people. You?
+
+Listener (A): Same here. Say, you're pretty single, right? Maybe we could go out sometime?
+
+Speaker (B): I don't know...are you asking me on a date?",How is Speaker feeling after what they just said?,"(1) Confused
+
+(2) Nervous
+
+(3) Excited
+
+(4) Interested
+
+(5) Intrigued","a, b, c, d, e","4, 4, 3, 2, 3","2, 2, 2, 2, 2"
+"Listener (A): I've been told that you are a very successful businessman abroad . I wonder how you managed to achieve such success ?
+
+Speaker (B): Oh , through a lot of hard work , of course .
+
+Listener (A): I suppose that in a foreign country it was difficult at first , wasn't it ?
+
+Speaker (B): Surely it was , especially when you only knew few people and little English .
+
+Listener (A): You mean you didn ’ t know much English then ?
+
+Speaker (B): Right . I only knew a few English sentences .
+
+Listener (A): That's incredible . Could you tell me what you did to make a start ?
+
+Speaker (B): First , I worked as a servant .",What might happen after what Speaker just said?,"(1) The speaker told the listener that he worked as a servant for a year.
+
+(2) The speaker told the listener that he worked as a servant for two years.
+
+(3) The speaker told the listener that he worked as a servant to earn money.
+
+(4) The speaker told the listener that he worked as a servant to earn some money.
+
+(5) The listener asks the speaker how he managed to get a job.","a, a, b, b, c","2, 2, 3, 3, 4","2, 2, 1, 1, 2"
+"Listener (B): Hey.
+
+Speaker (A): Hey, what's up?
+
+Listener (B): Not much, just wanted to talk.
+
+Speaker (A): Yeah, I've been wanting to talk to you too. Annistyn, I know we haven't been close lately and I'm sorry for that. I know I've been busy with work and school and stuff, but I miss hanging out with you. We used to be best friends.
+
+Listener (B): Yeah, I know. I miss hanging out with you too. But it's not like you don't have time for me anymore, you just never make an effort anymore. It feels like you're always too busy for me or something else is more important.
+
+Speaker (A): That's not true! I do have time for you, I just...I don't know, things are different now. We're not kids anymore. We have our own lives now and sometimes it feels like we're on different paths.
+
+Listener (B): Yeah, life does get in the way sometimes doesn't it? It's just hard when it feels like the person who was once your best friend is now a stranger.
+
+Speaker (A): Annistyn, we're not strangers! Just because we don't hang out as much as we used to doesn't mean we're strangers! I still care about you a lot and want to be friends!",How does Listener feel because of what Speaker just said?,"(1) The listener is happy to hear that the speaker still cares about her.
+
+(2) Annistyn is glad that the speaker cares about her.
+
+(3) B is happy that A cares about them.
+
+(4) Annistyn is happy to hear that the speaker still cares about her.
+
+(5) The listener is glad that the speaker cares about her.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .
+
+Listener (B): i meet well educated people at the book store . do you like to read ?
+
+Speaker (A): not really . growing up on the farm did not leave time to read .
+
+Listener (B): what do you do besides party with your friends ?
+
+Speaker (A): i spend time with family . we just moved across country for my college .",What does Speaker want to do next?,"(1) to start a blog or social media account to document their college experience and share their experiences with others.
+
+(2) to explore new places and try new things with their family.
+
+(3) to learn more about the culture and history of the new place they moved to.
+
+(4) to volunteer at a local animal shelter to give back to the community.
+
+(5) to start a new hobby, like painting or playing an instrument, to pass the time.","a, b, c, d, e","2, 3, 3, 3, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hello , Is this EYE computers ?
+
+Listener (B): Yeas , It is . Sewen Jes speaking . How can I help ?
+
+Speaker (A): Actually , I'm calling to complain about your service . The computer I bought last week is faulty .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) by a desire for fairness and justice in the computer purchase process.
+
+(2) by their frustration with the faulty computer and their desire for a refund or replacement.
+
+(3) by a sense of disappointment in the quality of the computer they purchased.
+
+(4) to express their frustration and disappointment with the eye computers service.
+
+(5) by a sense of frustration and disappointment with the quality of the computer they purchased.","a, b, c, c, c","4, 4, 4, 4, 4","3, 3, 2, 2, 2"
+"Speaker (A): i 'm going to australia next year . are n't you from australia , beth ?
+
+Listener (B): actually i 'm from new zealand .
+
+Speaker (A): oh , i did n't know that . so what 's it look like there ?
+
+Listener (B): oh , it 's beautiful . there are lots of farms and it 's very mountainous .
+
+Speaker (A): really ? how high are the mountains ?
+
+Listener (B): well , the highest one is mount cook . it 's about 3800 meters high .
+
+Speaker (A): wow , so how far is new zealand from australia ?
+
+Listener (B): well , i live in auckland and it 's about 2000 kilometers from sydney .
+
+Speaker (A): maybe i should visit your country next year , too .",How does Listener feel because of what Speaker just said?,"(1) The listener is excited to visit new zealand.
+
+(2) B is excited to visit A.
+
+(3) B is happy that A wants to visit their country.
+
+(4) B is excited to visit A
+
+(5) The speaker is excited to visit new zealand.","a, b, c, b, a","2, 3, 4, 3, 2","2, 2, 2, 2, 2"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .
+
+Listener (B): i meet well educated people at the book store . do you like to read ?
+
+Speaker (A): not really . growing up on the farm did not leave time to read .
+
+Listener (B): what do you do besides party with your friends ?
+
+Speaker (A): i spend time with family . we just moved across country for my college .",What does Speaker want to do next?,"(1) To have fun
+
+(2) Go home to family
+
+(3) Go home
+
+(4) Have fun
+
+(5) Find new friends","a, b, b, a, c","3, 3, 3, 3, 2","1, 1, 1, 1, 2"
+"Speaker (A): Let's play slots as usual.
+
+Listener (B): Put your coins inside.
+
+Speaker (A): Oh, I won.",How is Speaker feeling after what they just said?,"(1) Excited
+
+(2) Proud
+
+(3) Excited
+
+(4) Happy
+
+(5) Joyful","a, b, a, c, c","4, 3, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Hi, I'm looking for a book by J.K. Rowling.
+
+Speaker (B): Yes, we have several of her books. which one are you looking for?
+
+Listener (A): I saw on TV that she has a new book out and I wanted to read it.
+
+Speaker (B): Ah, yes. The new book is called ""The Casual Vacancy."" It's about a small town that's shaken up when one of the town members dies unexpectedly.",What might happen after what Speaker just said?,"(1) the listener might ask the speaker if they have any other books by j.k. rowling that they would recommend.
+
+(2) the speaker might suggest other books by j.k. rowling that the listener might enjoy.
+
+(3) the speaker might recommend some other books by j.k. rowling that the listener might enjoy.
+
+(4) the listener might ask the speaker if they have any other books by j.k. rowling that they recommend.
+
+(5) the listener might ask if the book has any reviews or ratings yet.","a, b, b, a, c","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hello , Is this EYE computers ?
+
+Listener (B): Yeas , It is . Sewen Jes speaking . How can I help ?
+
+Speaker (A): Actually , I'm calling to complain about your service . The computer I bought last week is faulty .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker is disappointed with the service of eye computers.
+
+(2) The speaker is disappointed with the service provided by the company.
+
+(3) The speaker is disappointed with the quality of the computer.
+
+(4) The speaker is disappointed with the service of the company.
+
+(5) The speaker is disappointed with the service provided by eye computers.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+Speaker (A): batina and simon are getting married next month .,What will Listener want to do next based on what Speaker just said?,"(1) to ask batina and simon about their wedding plans and what they have planned.
+
+(2) to plan a surprise party for batina and simon's wedding.
+
+(3) to know the date and time of the wedding.
+
+(4) to know more about the wedding plans and the venue.
+
+(5) to share their own wedding plans and ideas with speaker.","a, b, c, d, e","4, 3, 4, 4, 3","3, 3, 2, 2, 3"
+"Listener (A): I have a good feeling about this house .
+
+Speaker (B): Yes , I liked it the first moment I pulled up to it .
+
+Listener (A): I love the paint job !
+
+Speaker (B): If you like the outside , you are going to really love the inside .",What could have caused the last thing said to happen?,"(1) The speaker likes the paint job of the house.
+
+(2) The listener likes the paint job of the house.
+
+(3) The listener liked the paint job of the house.
+
+(4) The listener likes the exterior of the house.
+
+(5) The listener likes the outside of the house.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (A): Let's play slots as usual.
+
+Listener (B): Put your coins inside.
+
+Speaker (A): Oh, I won.",How is Speaker feeling after what they just said?,"(1) Excited
+
+(2) Happy
+
+(3) Relieved
+
+(4) Proud
+
+(5) Thrilled","a, b, c, d, a","4, 4, 3, 3, 4","2, 2, 2, 2, 2"
+"Listener (B): Hey.
+
+Speaker (A): Hey, what's up?
+
+Listener (B): Not much, just wanted to talk.
+
+Speaker (A): Yeah, I've been wanting to talk to you too. Annistyn, I know we haven't been close lately and I'm sorry for that. I know I've been busy with work and school and stuff, but I miss hanging out with you. We used to be best friends.
+
+Listener (B): Yeah, I know. I miss hanging out with you too. But it's not like you don't have time for me anymore, you just never make an effort anymore. It feels like you're always too busy for me or something else is more important.
+
+Speaker (A): That's not true! I do have time for you, I just...I don't know, things are different now. We're not kids anymore. We have our own lives now and sometimes it feels like we're on different paths.
+
+Listener (B): Yeah, life does get in the way sometimes doesn't it? It's just hard when it feels like the person who was once your best friend is now a stranger.
+
+Speaker (A): Annistyn, we're not strangers! Just because we don't hang out as much as we used to doesn't mean we're strangers! I still care about you a lot and want to be friends!",How does Listener feel because of what Speaker just said?,"(1) relieved that speaker still cares about them and wants to be friends. they were worried that their friendship had deteriorated.
+
+(2) hesitant to accept speaker's offer, as they are not sure if they can keep up the friendship.
+
+(3) relieved that speaker still cares about them and wants to be friends.
+
+(4) grateful for speaker's apology and willingness to make time for them.
+
+(5) hesitant to commit to hanging out more often, but appreciates speaker's effort to make time for them.","a, b, a, c, d","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): where are you from ?
+
+Speaker (B): the united states . i live in new york .
+
+Listener (A): oh really ? i think it 's a big city with a large population , right ? by the way do you like it ?
+
+Speaker (B): yeah , i think it 's the only place to live in .
+
+Listener (A): why do you say that ?
+
+Speaker (B): you see , there 's always something exciting to do and it 's never boring .",What might happen after what Speaker just said?,"(1) The listener agrees with the speaker's statement.
+
+(2) The listener agrees with the speaker's statement about new york city.
+
+(3) The listener agrees with the speaker's statement about new york.
+
+(4) The listener agrees with the speaker.
+
+(5) The listener agrees with the speaker's point of view.","a, a, a, a, a","3, 3, 3, 3, 3","2, 2, 2, 2, 2"
+"Listener (A): You can't tell me what to do, Roxie. I'm not your slave.
+
+Speaker (B): I'm not trying to make you my slave, Keshon. I'm just asking you to take out the trash. It's not that big of a deal.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) by a desire to maintain a clean and organized living space.
+
+(2) by a need for order and cleanliness in their living space.
+
+(3) to maintain a sense of control over their household chores and tasks.
+
+(4) by a sense of responsibility towards the household chores.
+
+(5) by the need to delegate tasks to others in order to free up their own time.","a, a, b, c, d","4, 4, 3, 4, 4","2, 2, 2, 2, 3"
+"Listener (A): Welcome , young man . No offence , but I haven't seen you here before .
+
+Speaker (B): Of course , this is my first time here . My Mom has a membership here . Here is the card .
+
+Listener (A): Okay then . You are the younger customer here ever .
+
+Speaker (B): It's not so wise that you do not explore the children's market .
+
+Listener (A): It's the marketing's fault , I suppose.What do you want to do ?
+
+Speaker (B): Well , I want to become just like Bruce Lee . What should I do ?
+
+Listener (A): That's a long way to go , I'm afraid . First of all , you gotta grow up .
+
+Speaker (B): I am still young . And I'm growing every minute .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker is confident about his growth.
+
+(2) The speaker is confident that he is still young.
+
+(3) The speaker is confident about his future.
+
+(4) The speaker is confident about himself.
+
+(5) The speaker is optimistic about his future.","a, b, c, d, c","4, 1, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Hi, Taraji. How are you doing today?
+
+Speaker (B): I'm doing fine, thank you. Just working on my math homework.
+
+Listener (A): Do you need any help with that?
+
+Speaker (B): Yeah, I could use some help. Thank you.
+
+Listener (A): Let's take a look. What are you working on?
+
+Speaker (B): I'm working on this problem where I have to find the perimeter of this shape.",What does Speaker want to do next?,"(1) to know if there are any shortcuts or shortcuts to find the perimeter of the shape.
+
+(2) to ask the listener for a step-by-step explanation of how to solve the problem.
+
+(3) to know if there are any shortcuts or tricks to finding the perimeter of the shape.
+
+(4) the listener to explain how to find the perimeter of the shape.
+
+(5) the listener to explain the formula for finding the perimeter of the shape.","a, b, a, b, b","4, 4, 4, 4, 4","3, 2, 3, 2, 2"
+Speaker (A): May I help you ?,What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker wants to help the listener.
+
+(2) A wants to help B.
+
+(3) Person A wants to help Person B.
+
+(4) The speaker is a helpful person.
+
+(5) B needs help with something.","a, a, a, b, a","4, 4, 4, 4, 4","1, 1, 1, 2, 2"
+"Speaker (A): Friend: Pierre, what's wrong? You look like you're about to panic.
+
+Listener (B): I am! I feel so overwhelmed and excited, my heart is racing and I can't catch my breath.
+
+Speaker (A): Okay, let's try to calm down. Take a few deep breaths with me. Inhale... and exhale slowly. There you go. Now, tell me what's got you so worked up.",What is a likely characteristic of Speaker based on what they just said?,"(1) patient and willing to help others calm down.
+
+(2) empathetic and understanding.
+
+(3) a good listener and willing to engage in conversation.
+
+(4) empathetic and able to recognize when someone is in distress.
+
+(5) patient and willing to listen to the listener's concerns.","a, b, c, b, c","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television
+
+Listener (A): cool ! what you watching . i might play video games in a bit
+
+Speaker (B): a show about traveling i love to travel",What is a breakdown of the last thing said into a series of required subevents?,"(1) Find place to go
+
+(2) Have fun
+
+(3) Find place to visit
+
+(4) Learn about new places
+
+(5) Find out where going","a, b, a, c, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): i 'm going to australia next year . are n't you from australia , beth ?
+
+Listener (B): actually i 'm from new zealand .
+
+Speaker (A): oh , i did n't know that . so what 's it look like there ?
+
+Listener (B): oh , it 's beautiful . there are lots of farms and it 's very mountainous .
+
+Speaker (A): really ? how high are the mountains ?
+
+Listener (B): well , the highest one is mount cook . it 's about 3800 meters high .
+
+Speaker (A): wow , so how far is new zealand from australia ?
+
+Listener (B): well , i live in auckland and it 's about 2000 kilometers from sydney .
+
+Speaker (A): maybe i should visit your country next year , too .",How does Listener feel because of what Speaker just said?,"(1) grateful for the opportunity to share their country with someone who is interested in exploring it.
+
+(2) excited that speaker is interested in visiting their country.
+
+(3) curious about why speaker wants to visit their country and wants to know more about their interests.
+
+(4) excited that speaker wants to visit their country.
+
+(5) a bit surprised that speaker is interested in visiting their country.","a, b, c, b, d","4, 4, 4, 4, 4","3, 2, 3, 2, 3"
+"Speaker (A): Let's play slots as usual.
+
+Listener (B): Put your coins inside.
+
+Speaker (A): Oh, I won.",How is Speaker feeling after what they just said?,"(1) satisfied with their luck and is looking forward to playing more slots.
+
+(2) relieved that they won and can now relax.
+
+(3) excited and happy to have won.
+
+(4) a sense of accomplishment for successfully putting their coins into the slot machine.
+
+(5) relieved to have won the game.","a, b, c, d, b","4, 4, 4, 4, 4","3, 3, 2, 3, 2"
+"Listener (A): where are you from ?
+
+Speaker (B): the united states . i live in new york .
+
+Listener (A): oh really ? i think it 's a big city with a large population , right ? by the way do you like it ?
+
+Speaker (B): yeah , i think it 's the only place to live in .
+
+Listener (A): why do you say that ?
+
+Speaker (B): you see , there 's always something exciting to do and it 's never boring .",What might happen after what Speaker just said?,"(1) the listener might ask the speaker if they have any favorite places to visit in new york.
+
+(2) the speaker might suggest some fun activities or events that the listener could attend in new york.
+
+(3) the speaker might mention some of the unique attractions or events that are unique to new york.
+
+(4) the listener might ask the speaker about their favorite activities in new york.
+
+(5) the listener might express interest in visiting new york and ask the speaker for recommendations on places to visit.","a, b, b, a, a","4, 4, 4, 4, 4","2, 3, 3, 2, 3"
+"Listener (A): Hey Mr. Teacher, I'm really sorry about my paper.
+
+Speaker (B): What happened?
+
+Listener (A): Well, I forgot to put a space between ""I"" and ""am"" and as a result the whole paper looked like one big run-on sentence.
+
+Speaker (B): That sounds like a pretty careless mistake.
+
+Listener (A): Yeah, I know. I'm really sorry about it.
+
+Speaker (B): Well, you should be more careful in the future when you're writing papers for school.",What might happen after what Speaker just said?,"(1) The listener will be more careful in the future.
+
+(2) B tells A to do better next time.
+
+(3) B tells A to do better next time
+
+(4) Mr. smith will learn from his mistake.
+
+(5) The listener will be more careful in the future..","a, b, b, a, a","4, 4, 4, 1, 4","1, 1, 1, 1, 1"
+"Speaker (A): Hey. How are you doing?
+
+Listener (B): I'm doing alright. How about you?
+
+Speaker (A): Good, good. Say, I've been meaning to talk to you about something for a while now.",What could have caused the last thing said to happen?,"(1) The speaker has something to discuss with the listener.
+
+(2) The speaker wanted to talk to the listener about something.
+
+(3) The speaker wants to talk to the listener about something.
+
+(4) The speaker wants to talk to the listener about something important.
+
+(5) The listener asked the speaker how he was doing.","a, a, a, a, b","4, 4, 4, 4, 2","1, 1, 1, 1, 1"
+"Listener (A): The sky is so pretty today.
+
+Speaker (B): Yeah, it is. It's like a painting.
+
+Listener (A): I know! I can't believe how lucky we are to be able to see something so beautiful every day.
+
+Speaker (B): I know. Sometimes I take it for granted, but then I see a sunset like this and I'm just in awe all over again.",How does Listener feel because of what Speaker just said?,"(1) a sense of gratitude towards the speaker for bringing up the topic of taking things for granted.
+
+(2) inspired to take more time to appreciate the beauty around them.
+
+(3) grateful for the opportunity to witness such a beautiful sunset.
+
+(4) inspired to appreciate the beauty of nature more often.
+
+(5) a sense of wonder and appreciation for the beauty of nature.","a, b, c, b, d","2, 4, 4, 4, 4","3, 2, 2, 2, 2"
+"Listener (A): Can we have two tickets for seven thirty ?
+
+Speaker (B): Yes , and would you like to have seats in the front or at the back ?
+
+Listener (A): In the front , please .
+
+Speaker (B): That's 35 yuan each .",What prerequisites are required for the last thing said to occur?,"(1) Both the listener and the speaker are travelling together.
+
+(2) There are two seats available in the front.
+
+(3) There is a ticket counter at the railway station.
+
+(4) They have to pay for the tickets.
+
+(5) The speaker is a ticket seller.","a, b, c, d, e","2, 4, 3, 4, 4","2, 3, 2, 2, 3"
+"Listener (A): What do you usually do in your work time ?
+
+Speaker (B): Some routine job . Files , documents , faxes and so on .
+
+Listener (A): Are you usually busy ?
+
+Speaker (B): It depends . Sometimes I am very busy .
+
+Listener (A): What depends ?
+
+Speaker (B): Oh , that means I can't make sure for my own .",What prerequisites are required for the last thing said to occur?,"(1) The speaker is a part-time employee.
+
+(2) The speaker has a lot of work to do in his office.
+
+(3) The speaker is a part-time employee of the company.
+
+(4) The speaker has a lot of work to do in the office.
+
+(5) The speaker has a lot of work to do.","a, b, a, b, b","3, 4, 3, 4, 4","2, 2, 2, 2, 2"
+Speaker (B): The doctor said I have high blood pressure and need to lose about 50 pounds.,What is a likely characteristic of Speaker based on what they just said?,"(1) The speaker is overweight and unhealthy.
+
+(2) The speaker is overweight.
+
+(3) The speaker is a healthy person.
+
+(4) The speaker is health-conscious.
+
+(5) The speaker is obese.","a, a, b, b, a","4, 4, 2, 2, 4","1, 1, 1, 1, 1"
+Speaker (A): May I help you ?,What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker wants to help the listener.
+
+(2) The speaker is trying to help the listener.
+
+(3) The speaker wants to be helpful to the listener.
+
+(4) The speaker is interested in helping the listener.
+
+(5) The speaker is eager to help the listener.","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Listener (B): Hey, I'm exhausted. I worked all day and I didn't even get a chance to eat lunch.
+
+Speaker (A): You worked all day without taking a break?
+
+Listener (B): Yeah, I was really busy. But it's okay, I'm used to it.
+
+Speaker (A): Well, you should take a break now and relax. You need to rest so you can be productive tomorrow.
+
+Listener (B): Yeah, you're right. I'll just lay down for a little bit and then maybe we can watch some TV or something.
+
+Speaker (A): Sounds good to me. Hey, I know you're exhausted, but do you want to talk for a little bit?
+
+Listener (B): Yeah, sure. What's up?
+
+Speaker (A): I was just flipping through the channels and there's nothing on. And I realized that we haven't really talked much lately. How are you doing?",What is a breakdown of the last thing said into a series of required subevents?,"(1) recognizing the importance of maintaining a positive relationship with the listener.
+
+(2) expressing concern about the listener's well-being
+
+(3) the speaker recognizing that they haven't talked much lately.
+
+(4) acknowledging the listener's exhaustion and offering to talk to them.
+
+(5) acknowledging the lack of communication between the speaker and listener.","a, b, c, d, c","4, 4, 4, 4, 4","3, 2, 3, 2, 3"
+"Listener (A): Hi, Taraji. How are you doing today?
+
+Speaker (B): I'm doing fine, thank you. Just working on my math homework.
+
+Listener (A): Do you need any help with that?
+
+Speaker (B): Yeah, I could use some help. Thank you.
+
+Listener (A): Let's take a look. What are you working on?
+
+Speaker (B): I'm working on this problem where I have to find the perimeter of this shape.",What does Speaker want to do next?,"(1) To get help
+
+(2) To finish the problem
+
+(3) To complete the homework
+
+(4) To find out the answer
+
+(5) To finish the problem.","a, b, b, b, b","4, 4, 4, 4, 4","1, 2, 2, 2, 2"
+"Speaker (A): hello ! i am about to fix breakfast ! what you having ?
+
+Listener (B): just tea . i drink it all day long .
+
+Speaker (A): tea is okay . i am making bacon and eggs . yum
+
+Listener (B): tea keeps me going at my job at a bookstore . do you work ?
+
+Speaker (A): part time at mcdonalds . i am in college .
+
+Listener (B): i studied writing in college . i want to be a published writer .
+
+Speaker (A): i do not know what i want to be right now . i just want to have fun .
+
+Listener (B): do you have hobbies ? i write short fiction in my spare time .
+
+Speaker (A): i go to rock concerts a lot . is that a hobby ? writing is cool .
+
+Listener (B): me , i go to museums of art . going to rock concerts is .
+
+Speaker (A): you sound very well educated . i usually just hang with friends and party .
+
+Listener (B): i meet well educated people at the book store . do you like to read ?
+
+Speaker (A): not really . growing up on the farm did not leave time to read .
+
+Listener (B): what do you do besides party with your friends ?
+
+Speaker (A): i spend time with family . we just moved across country for my college .",What does Speaker want to do next?,"(1) To have a family
+
+(2) To have fun
+
+(3) To spend time with them
+
+(4) To spend time with family
+
+(5) To be with family","a, b, c, c, c","2, 3, 3, 3, 3","1, 1, 1, 1, 1"
+"Speaker (A): Hey, Sarah.
+
+Listener (B): Hey, Dacoda. How are you doing?
+
+Speaker (A): I'm alright. Just been feeling really down lately.",What prerequisites are required for the last thing said to occur?,"(1) for this to happen, the speaker must have been experiencing negative emotions for a while.
+
+(2) the speaker has been going through a difficult time lately.
+
+(3) the speaker has been experiencing negative emotions for a while.
+
+(4) dacoda has been experiencing negative emotions for a while.
+
+(5) the speaker is open to sharing their emotions with the listener.","a, a, a, a, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): You're spending a very long time on my hair .
+
+Speaker (B): I'm almost done .
+
+Listener (A): I needed you to be done and finished an hour ago .
+
+Speaker (B): I'm all done now .
+
+Listener (A): Are you sure you're finished ?
+
+Speaker (B): I don't understand .
+
+Listener (A): You did a horrible job on my hair .
+
+Speaker (B): What's wrong with it ?
+
+Listener (A): I don't like anything about it .
+
+Speaker (B): I apologize .
+
+Listener (A): That's fine , but I'm not paying for it .
+
+Speaker (B): Excuse me ? Let's try to work this out , okay ?",How does Listener feel because of what Speaker just said?,"(1) A is happy to work out a solution with B.
+
+(2) The listener is hopeful that the speaker will accept his apology.
+
+(3) A is hopeful that B will work out a solution.
+
+(4) Person A is happy to work out a solution with Person B.
+
+(5) The speaker is hopeful that the listener will agree to pay for the haircut.","a, b, a, a, c","2, 1, 2, 2, 1","2, 2, 2, 2, 2"
+"Listener (A): What do you usually do in your work time ?
+
+Speaker (B): Some routine job . Files , documents , faxes and so on .
+
+Listener (A): Are you usually busy ?
+
+Speaker (B): It depends . Sometimes I am very busy .
+
+Listener (A): What depends ?
+
+Speaker (B): Oh , that means I can't make sure for my own .",What prerequisites are required for the last thing said to occur?,"(1) There are many people working in the office.
+
+(2) The speaker has to work under the supervision of the manager.
+
+(3) The speaker is a part-time employee.
+
+(4) The speaker's job is not a part-time job.
+
+(5) The listener is a busy person.","a, b, c, d, e","2, 3, 3, 3, 2","2, 3, 2, 2, 2"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television
+
+Listener (A): cool ! what you watching . i might play video games in a bit
+
+Speaker (B): a show about traveling i love to travel",What is a breakdown of the last thing said into a series of required subevents?,"(1) sharing personal experiences of travel and how it has impacted the speaker's life.
+
+(2) describing the type of show the speaker is watching about traveling
+
+(3) describing the type of show the speaker is watching about traveling.
+
+(4) exploring different cultures and customs through the lens of a travel show
+
+(5) exploring different cultures and customs through the lens of a travel show.","a, b, b, c, c","3, 2, 2, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hello , Is this EYE computers ?
+
+Listener (B): Yeas , It is . Sewen Jes speaking . How can I help ?
+
+Speaker (A): Actually , I'm calling to complain about your service . The computer I bought last week is faulty .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) A wants to complain about their computer.
+
+(2) The speaker is unhappy with the service provided by the company.
+
+(3) The speaker is disappointed with the service of the company.
+
+(4) Speaker is disappointed with the service of eye computers.
+
+(5) Speaker is disappointed with the service of eye computers","a, b, b, b, b","4, 4, 4, 4, 4","1, 2, 2, 2, 2"
+"Speaker (A): Hey, Sarah. How's it going?
+
+Listener (B): Not too bad. How are you?
+
+Speaker (A): I'm good. Just been busy with work and stuff.
+
+Listener (B): Yeah, I can imagine. So, what's new with you?
+
+Speaker (A): Same old, same old. Just working and hanging out with friends. You know how it is.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker wants to share his daily routine with the listener.
+
+(2) The speaker is happy to share his daily routine with the listener.
+
+(3) A wants to share what they are doing.
+
+(4) The speaker is a bit bored with his work.
+
+(5) Sarah is curious to know about the speaker's life.","a, a, a, b, c","4, 4, 4, 4, 1","2, 2, 2, 3, 2"
+"Listener (A): I've been told that you are a very successful businessman abroad . I wonder how you managed to achieve such success ?
+
+Speaker (B): Oh , through a lot of hard work , of course .
+
+Listener (A): I suppose that in a foreign country it was difficult at first , wasn't it ?
+
+Speaker (B): Surely it was , especially when you only knew few people and little English .
+
+Listener (A): You mean you didn ’ t know much English then ?
+
+Speaker (B): Right . I only knew a few English sentences .
+
+Listener (A): That's incredible . Could you tell me what you did to make a start ?
+
+Speaker (B): First , I worked as a servant .",What might happen after what Speaker just said?,"(1) the listener might ask the speaker how they managed to survive as a servant.
+
+(2) the listener may express admiration for the speaker's determination and perseverance in overcoming the challenges of living in a foreign country.
+
+(3) the listener might express surprise and ask the speaker if they ever considered going back to school to improve their english skills.
+
+(4) the speaker might mention that they also had to learn how to cook and clean, which was a challenge in a foreign country.
+
+(5) the listener might ask the speaker if they ever considered going back to school to improve their english skills.","a, b, c, d, c","4, 4, 4, 3, 4","3, 3, 3, 3, 3"
+"Listener (A): What do you usually do in your work time ?
+
+Speaker (B): Some routine job . Files , documents , faxes and so on .
+
+Listener (A): Are you usually busy ?
+
+Speaker (B): It depends . Sometimes I am very busy .
+
+Listener (A): What depends ?
+
+Speaker (B): Oh , that means I can't make sure for my own .",What prerequisites are required for the last thing said to occur?,"(1) the speaker has a flexible work schedule that allows them to adjust their workload as needed.
+
+(2) the work environment is unpredictable and unpredictable, making it difficult for the speaker to plan ahead.
+
+(3) the speaker's job requires a lot of attention and dedication to their work.
+
+(4) the speaker has a flexible work schedule that allows them to adjust their workload as needed.
+
+(5) for this to happen, the speaker must have a flexible work schedule that allows them to adjust their workload as needed.","a, b, c, a, a","3, 4, 4, 3, 3","3, 3, 2, 3, 3"
+"Listener (A): I've been told that you are a very successful businessman abroad . I wonder how you managed to achieve such success ?
+
+Speaker (B): Oh , through a lot of hard work , of course .
+
+Listener (A): I suppose that in a foreign country it was difficult at first , wasn't it ?
+
+Speaker (B): Surely it was , especially when you only knew few people and little English .
+
+Listener (A): You mean you didn ’ t know much English then ?
+
+Speaker (B): Right . I only knew a few English sentences .
+
+Listener (A): That's incredible . Could you tell me what you did to make a start ?
+
+Speaker (B): First , I worked as a servant .",What might happen after what Speaker just said?,"(1) B got a job as a cook in a restaurant.
+
+(2) The speaker got a job as a servant.
+
+(3) A asks B how they got the job.
+
+(4) B told A that they had to learn English to get a job.
+
+(5) The listener asks the speaker about his first job.","a, b, c, d, c","2, 3, 4, 4, 4","2, 1, 2, 2, 2"
+"Listener (B): Hey, I'm exhausted. I worked all day and I didn't even get a chance to eat lunch.
+
+Speaker (A): You worked all day without taking a break?
+
+Listener (B): Yeah, I was really busy. But it's okay, I'm used to it.
+
+Speaker (A): Well, you should take a break now and relax. You need to rest so you can be productive tomorrow.
+
+Listener (B): Yeah, you're right. I'll just lay down for a little bit and then maybe we can watch some TV or something.
+
+Speaker (A): Sounds good to me. Hey, I know you're exhausted, but do you want to talk for a little bit?
+
+Listener (B): Yeah, sure. What's up?
+
+Speaker (A): I was just flipping through the channels and there's nothing on. And I realized that we haven't really talked much lately. How are you doing?",What is a breakdown of the last thing said into a series of required subevents?,"(1) Talk to someone
+
+(2) Talk
+
+(3) Talk to
+
+(4) Listen to others
+
+(5) Have conversation","a, a, a, b, a","4, 4, 1, 4, 4","1, 1, 1, 1, 1"
+"Speaker (A): I want you. I miss you and I really want to get back together.
+
+Listener (B): I missed you too. I'd love to get back together.
+
+Speaker (A): I'm so glad to hear that, Mayleen. I've been thinking about you a lot lately and I really want to try again.",How is Speaker feeling after what they just said?,"(1) Proud
+
+(2) Happy and hopeful.
+
+(3) Happy
+
+(4) Hopeful
+
+(5) Angry","a, b, b, b, c","2, 4, 4, 4, 2","2, 2, 2, 2, 2"
+"Listener (A): Hey Mr. Teacher, I'm really sorry about my paper.
+
+Speaker (B): What happened?
+
+Listener (A): Well, I forgot to put a space between ""I"" and ""am"" and as a result the whole paper looked like one big run-on sentence.
+
+Speaker (B): That sounds like a pretty careless mistake.
+
+Listener (A): Yeah, I know. I'm really sorry about it.
+
+Speaker (B): Well, you should be more careful in the future when you're writing papers for school.",What might happen after what Speaker just said?,"(1) the listener might feel more confident in their writing abilities and start taking more pride in their work.
+
+(2) the listener might feel embarrassed and avoid writing papers for a while.
+
+(3) the speaker might assign the listener to work on a different assignment that requires more attention to detail.
+
+(4) the listener might ask the speaker for some tips on how to avoid making similar mistakes in the future.
+
+(5) the teacher may assign more challenging papers to the listener to help them improve their writing skills.","a, b, c, d, e","3, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): I'm so excited to vote for the first time in my life!
+
+Listener (B): Me too! I can't believe we're finally old enough to make our voices heard.
+
+Speaker (A): I know, it's crazy! I feel like this is going to be a really important election.
+
+Listener (B): Definitely. There's so much at stake this year.
+
+Speaker (A): I'm just glad that we can finally have a say in what happens.
+
+Listener (B): Absolutely. Voting is one of the most important things you can do as a citizen.
+
+Speaker (A): I know, and I'm just glad that we're finally old enough to do it. Sarah, can I ask you something?
+
+Listener (B): Of course!
+
+Speaker (A): Who are you voting for?",What prerequisites are required for the last thing said to occur?,"(1) the listener has registered to vote and has received their voter id.
+
+(2) for this to happen, the listener must have registered to vote and be registered to vote in their state.
+
+(3) the listener is registered to vote in the current election.
+
+(4) sarah is registered to vote and has received her voter id.
+
+(5) the speaker and listener are registered voters in the state or country where the election is being held.","a, a, a, a, a","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+Speaker (A): batina and simon are getting married next month .,What will Listener want to do next based on what Speaker just said?,"(1) To attend the wedding
+
+(2) To attend the wedding.
+
+(3) To congratulate them
+
+(4) To go to the wedding
+
+(5) To watch the wedding","a, a, b, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): Hey, Sarah. What are you up to?
+
+Listener (B): Just hanging out. What about you?
+
+Speaker (A): I'm studying insects.",What does Speaker want to do next?,"(1) To continue studying
+
+(2) To learn more
+
+(3) To study more
+
+(4) To find out more
+
+(5) To learn about insects","a, a, a, a, a","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (A): Hey, Sarah. What's up?
+
+Listener (B): Not much. Just hanging out. You?
+
+Speaker (A): I'm good. I just finished eating and was about to go to my hidden stash for later.
+
+Listener (B): That's sounds like a good plan. You're always so prepared.
+
+Speaker (A): Yeah, I just like to be prepared for anything. You never know when you're going to get hungry again.",What is a breakdown of the last thing said into a series of required subevents?,"(1) Eat food
+
+(2) Prepare food
+
+(3) Eat
+
+(4) Consume food
+
+(5) Find food","a, b, a, a, c","4, 4, 4, 4, 4","1, 1, 1, 1, 1"
+"Speaker (A): I'm so excited to vote for the first time in my life!
+
+Listener (B): Me too! I can't believe we're finally old enough to make our voices heard.
+
+Speaker (A): I know, it's crazy! I feel like this is going to be a really important election.
+
+Listener (B): Definitely. There's so much at stake this year.
+
+Speaker (A): I'm just glad that we can finally have a say in what happens.
+
+Listener (B): Absolutely. Voting is one of the most important things you can do as a citizen.
+
+Speaker (A): I know, and I'm just glad that we're finally old enough to do it. Sarah, can I ask you something?
+
+Listener (B): Of course!
+
+Speaker (A): Who are you voting for?",What prerequisites are required for the last thing said to occur?,"(1) Sarah has registered for the election.
+
+(2) Sarah is a citizen of the country.
+
+(3) There are many candidates for the election.
+
+(4) The speaker and the listener are voting for the first time.
+
+(5) The speaker is a citizen of the country.","a, b, c, d, b","4, 4, 3, 4, 4","2, 2, 3, 1, 2"
+"Listener (B): Hey.
+
+Speaker (A): Hey, what's up?
+
+Listener (B): Not much, just wanted to talk.
+
+Speaker (A): Yeah, I've been wanting to talk to you too. Annistyn, I know we haven't been close lately and I'm sorry for that. I know I've been busy with work and school and stuff, but I miss hanging out with you. We used to be best friends.
+
+Listener (B): Yeah, I know. I miss hanging out with you too. But it's not like you don't have time for me anymore, you just never make an effort anymore. It feels like you're always too busy for me or something else is more important.
+
+Speaker (A): That's not true! I do have time for you, I just...I don't know, things are different now. We're not kids anymore. We have our own lives now and sometimes it feels like we're on different paths.
+
+Listener (B): Yeah, life does get in the way sometimes doesn't it? It's just hard when it feels like the person who was once your best friend is now a stranger.
+
+Speaker (A): Annistyn, we're not strangers! Just because we don't hang out as much as we used to doesn't mean we're strangers! I still care about you a lot and want to be friends!",How does Listener feel because of what Speaker just said?,"(1) Annistyn is happy to hear that the speaker still cares about her.
+
+(2) Annistyn is happy to hear that the speaker cares about her.
+
+(3) Annistyn is happy to hear that the speaker still cares for her.
+
+(4) Annistyn is happy to know that the speaker still cares for her.
+
+(5) Annistyn is happy to know that the speaker still cares about her.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+Speaker (B): The doctor said I have high blood pressure and need to lose about 50 pounds.,What is a likely characteristic of Speaker based on what they just said?,"(1) The speaker is overweight.
+
+(2) The speaker is overweight.
+
+(3) Person B has high blood pressure.
+
+(4) B is overweight.
+
+(5) A person who is overweight.","a, a, b, a, a","4, 4, 4, 4, 4","2, 2, 1, 2, 2"
+"Listener (A): Hi , Mary , I have decided to look for a job as a salesman .
+
+Speaker (B): Good ! Have you got the recruitment information on marketing ?
+
+Listener (A): Yes . I have found some through different channels .
+
+Speaker (B): Really ? That's great ! Tell me .",What might happen after what Speaker just said?,"(1) the listener might ask the speaker for advice on how to prepare for a sales interview.
+
+(2) the speaker might ask the listener if they have any experience in sales or marketing.
+
+(3) speaker might ask the listener about their experience in sales and marketing.
+
+(4) speaker might ask the listener if they have any experience in sales or marketing.
+
+(5) the speaker might ask the listener about their qualifications and experience in sales.","a, b, b, b, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Wow. I can't believe everything you've been through, Sera.
+
+Listener (B): Yeah, it's been quite a ride.
+
+Speaker (A): I'm so sorry that happened to you.
+
+Listener (B): Thank you. It was tough at times, but I got through it.
+
+Speaker (A): I admire your strength and resilience. What made you keep going?",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) to learn from sera's experience and apply it to their own life.
+
+(2) to learn from sera's experience and apply it to their own life.
+
+(3) by empathy and compassion for sera's struggles.
+
+(4) by a sense of empathy and compassion for sera's struggles.
+
+(5) by a desire to understand sera's perspective and how she coped with her situation.","a, a, b, b, c","4, 4, 4, 4, 4","3, 3, 2, 2, 3"
+"Listener (A): The sky is so pretty today.
+
+Speaker (B): Yeah, it is. It's like a painting.
+
+Listener (A): I know! I can't believe how lucky we are to be able to see something so beautiful every day.
+
+Speaker (B): I know. Sometimes I take it for granted, but then I see a sunset like this and I'm just in awe all over again.",How does Listener feel because of what Speaker just said?,"(1) Happy
+
+(2) Impressed
+
+(3) Appreciative
+
+(4) Proud
+
+(5) Amazed","a, b, c, d, e","4, 4, 4, 2, 4","2, 2, 2, 2, 2"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",How is Speaker feeling after what they just said?,"(1) Good
+
+(2) Happy
+
+(3) Happy
+
+(4) Interested
+
+(5) Enjoyable","a, a, a, b, a","4, 4, 4, 4, 4","1, 2, 2, 2, 2"
+"Listener (A): hey jennie , saturday is my birthday , and i was wondering if you 'd like to come to my party ? you can come along with your brother .
+
+Speaker (B): oh , i 'm sorry . i think i may already have plans to go to my grandparents house with my father .
+
+Listener (A): ok , i hope you have a good time .
+
+Speaker (B): thank you and i hope your party 's fun . anyway , see you in class on monday .",What does Speaker want to do next?,"(1) To go back to school
+
+(2) To return to class
+
+(3) To go to the party
+
+(4) To go to class
+
+(5) To go back to class","a, a, b, a, a","2, 2, 3, 2, 2","2, 1, 2, 1, 1"
+"Listener (A): Hello, Ultimate Computers. May I help you?
+
+Speaker (B): Yes, this is Jack Kordell from Hunter's Office Supplies. May I speak to Elaine Strong, please?
+
+Listener (A): I'm sorry, but she's not in right now. She should be here later in the afternoon, maybe about 4:30. May I take a message?
+
+Speaker (B): Yes. Ms. Strong sent me your newest line of laptop computers with a description of other software products, but there wasn't any information about after sales service.
+
+Listener (A): Oh, I'm sorry. Would you like me to fax that to you?
+
+Speaker (B): Yes. Could you try sending that information around 3:30? That should give me time to look over the material before I call Ms. Strong, say, around 5:00.
+
+Listener (A): Sure. Could I have your name, telephone number, and fax number, please?
+
+Speaker (B): Yes. Jack Kordell and the phone number is 560 1287. And the fax number is 560 1288.
+
+Listener (A): All right. I'll be sure to send you the fax this afternoon.
+
+Speaker (B): Okay, bye.",How does Listener feel because of what Speaker just said?,"(1) grateful for the opportunity to assist speaker and is eager to follow up with the fax.
+
+(2) apologetic for not including after sales service information in the package.
+
+(3) apologetic for not including the after sales service information in the package.
+
+(4) helpful and willing to assist speaker in any way possible.
+
+(5) satisfied that they were able to provide the necessary information to speaker.","a, b, b, a, c","4, 4, 4, 4, 4","3, 3, 3, 2, 2"
+"Listener (A): Hi Xena! It's been a while. How have you been?
+
+Speaker (B): I'm doing well, thank you. It's good to see you again. How have you been?
+
+Listener (A): I've been good. Just keeping busy as usual. So, what brings you here today?
+
+Speaker (B): I actually came to talk to you about something.",What might happen after what Speaker just said?,"(1) A asks B about what they are talking about.
+
+(2) A asks B what they are talking about.
+
+(3) The listener asks xena about her work.
+
+(4) The listener will ask the speaker about the reason for her visit.
+
+(5) The speaker will share the details of the project with the listener.","a, a, b, a, c","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): I'm sorry about the mistake I made.
+
+Speaker (B): What exactly happened?
+
+Listener (A): I was working on the Smith account and I accidentally double-booked two appointments for Mr. Smith.
+
+Speaker (B): How did you book the appointments?",What is a likely characteristic of Speaker based on what they just said?,"(1) Person A was careless and careless
+
+(2) The speaker is a responsible employee.
+
+(3) The listener is a responsible employee.
+
+(4) Person A was careless and careless.
+
+(5) They are a good employee.","a, b, c, a, b","1, 4, 1, 1, 4","2, 2, 2, 2, 2"
+"Listener (A): Treston, do you like animals?
+
+Speaker (B): Yes, I love animals. I have a dog and a cat. I take my dog for walks every day.
+
+Listener (A): That's so cool! I love animals too. I have a dog and two cats. I take my dog for walks every day too.
+
+Speaker (B): That's great! What kind of dogs do you have?
+
+Listener (A): I have a golden retriever and a German shepherd.
+
+Speaker (B): I have aLabrador retriever and a golden retriever. Do you like to go hiking with your dogs?",What will Listener want to do next based on what Speaker just said?,"(1) To have fun
+
+(2) Get a dog
+
+(3) To take a hike
+
+(4) To go hiking
+
+(5) Go hiking","a, b, c, c, c","2, 2, 4, 4, 4","2, 2, 1, 1, 1"
+"Speaker (A): Hey, what's going on?
+
+Listener (B): Just doing my homework.
+
+Speaker (A): Good. You need to keep up with your studies. I don't want you falling behind.
+
+Listener (B): I won't, Dad. I promise.
+
+Speaker (A): Good. I also want you to keep your room clean. It's important to have a tidy space so you can focus on your studies and not be distracted by messes.
+
+Listener (B): Okay, Dad. I'll make sure to keep my room clean from now on.
+
+Speaker (A): Thank you, sweetie. I just want what's best for you.
+
+Listener (B): I know, Dad. I love you.
+
+Speaker (A): I love you too, sweetheart.",How is Speaker feeling after what they just said?,"(1) relieved that their child is taking their advice seriously.
+
+(2) proud of their child for taking responsibility for their own well-being.
+
+(3) a sense of responsibility towards their child's education and well-being.
+
+(4) a sense of responsibility to ensure their child's success.
+
+(5) proud of their child for taking responsibility for their studies and keeping their room clean.","a, b, c, c, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",What is a likely characteristic of Speaker based on what they just said?,"(1) Enthusiastic
+
+(2) Good at watching television
+
+(3) Interested
+
+(4) Enjoyable
+
+(5) Relaxed","a, b, c, d, e","3, 1, 4, 4, 4","2, 1, 2, 2, 2"
+"Speaker (A): tom , are n't you going to school this morning ?
+
+Listener (B): i called my head teacher and said i did n't feel well this morning .
+
+Speaker (A): then i 'll take you to the hospital .
+
+Listener (B): i will feel quite well after the football match this morning , mom .
+
+Speaker (A): why do you want to watch the football match ?",What is a breakdown of the last thing said into a series of required subevents?,"(1) To watch
+
+(2) Watch match
+
+(3) Have fun
+
+(4) Play football
+
+(5) Think about","a, a, b, c, d","1, 4, 4, 2, 1","1, 1, 2, 2, 2"
+"Speaker (A): Hi , Dave . You're early .
+
+Listener (B): So you knew it was me ?
+
+Speaker (A): I had an idea .",What could have caused the last thing said to happen?,"(1) The listener asked the speaker how he knew that it was him.
+
+(2) The listener asked the speaker how he knew he was coming.
+
+(3) The listener asked the speaker how he knew it was him.
+
+(4) The listener asked the speaker how he knew it was dave.
+
+(5) The listener asked the speaker that how he knew it was him.","a, a, a, a, a","1, 1, 1, 1, 1","1, 1, 1, 1, 1"
+"Speaker (A): Sarah, that party was insane! I had the best time dancing all night.
+
+Listener (B): I know, right? It was so much fun! I'm glad we went.
+
+Speaker (A): Yeah, me too. I don't think I've ever danced that much in my life!",What could have caused the last thing said to happen?,"(1) Sarah and the speaker went to a party.
+
+(2) The speaker had a great time at the party.
+
+(3) The listener and the speaker attended a party together.
+
+(4) The speaker went to a party with his friends.
+
+(5) The speaker and the listener went to a party.","a, b, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): Hey, congratulations on winning the contest!
+
+Listener (B): Thank you so much! I can't believe it.
+
+Speaker (A): Your story was really great. I loved the way you developed the characters and the plot.
+
+Listener (B): Thank you. I'm glad you enjoyed it.
+
+Speaker (A): So, what are you going to do with your prize money?",What does Speaker want to do next?,"(1) To buy something
+
+(2) Spend money on something
+
+(3) Go shopping
+
+(4) Get a job
+
+(5) To spend the money","a, a, a, b, a","4, 4, 4, 2, 4","2, 2, 2, 2, 2"
+"Listener (A): Hey there, I'm Trayton.
+
+Speaker (B): Hey! I'm Tyrion. Nice to meet you.
+
+Listener (A): Likewise. So, what brings you here tonight?
+
+Speaker (B): Just wanted to have some fun and meet new people. You?
+
+Listener (A): Same here. Say, you're pretty single, right? Maybe we could go out sometime?
+
+Speaker (B): I don't know...are you asking me on a date?",How is Speaker feeling after what they just said?,"(1) hesitant about the idea of going on a date with the listener.
+
+(2) uncomfortable and unsure about the listener's intentions.
+
+(3) hesitant and unsure about the listener's intentions.
+
+(4) slightly uncomfortable with the listener's suggestion of going on a date.
+
+(5) nervous about the possibility of going on a date with the listener.","a, b, b, a, a","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): Keenen, I need to speak with you.
+
+Speaker (B): Yes, Lindsey? What is it?
+
+Listener (A): I'm taking over your duties as head of security. You're no longer needed.
+
+Speaker (B): What? But why? I don't understand.
+
+Listener (A): Because I want to be in charge. And I can do a better job than you can.
+
+Speaker (B): But this is my job! I'm the one who's supposed to be in charge of security!",What will Listener want to do next based on what Speaker just said?,"(1) To be in charge of security
+
+(2) To get the job back
+
+(3) To be in charge
+
+(4) To be in charge of security.
+
+(5) To get the job","a, b, a, a, a","4, 2, 4, 4, 4","1, 2, 1, 1, 1"
+"Listener (A): Good morning, Madam. Can I help you?
+
+Speaker (B): Yes, er...I want to see the West End.
+
+Listener (A): How much time do you have?
+
+Speaker (B): Just one day.
+
+Listener (A): Well, what do you particularly want to do?
+
+Speaker (B): I want to visit museums, art galleries, Buckingham Palace, do some shopping, and go to the theaters.
+
+Listener (A): But you only have one day.
+
+Speaker (B): That's right.
+
+Listener (A): Well. Why not do some shopping first?
+
+Speaker (B): Where can I do that?
+
+Listener (A): In Oxford Street.
+
+Speaker (B): How can I get there?
+
+Listener (A): You can walk through Hyde Park. It's quite near.
+
+Speaker (B): Wonderful. Thanks for your help.",What could have caused the last thing said to happen?,"(1) The speaker is happy to know about the shopping mall.
+
+(2) Person B is grateful for Person A's help.
+
+(3) B is grateful to A for helping them.
+
+(4) B appreciates A's help.
+
+(5) A told B how to get to Oxford Street.","a, b, b, b, c","4, 4, 4, 4, 4","2, 1, 1, 1, 1"
+Speaker (A): batina and simon are getting married next month .,What does Speaker want to do next?,"(1) to start planning the wedding reception and invite all their friends and family.
+
+(2) to plan a surprise party for batina and simon's wedding guests.
+
+(3) to know more about the wedding venue and the wedding dress.
+
+(4) to plan a surprise party for the couple's guests.
+
+(5) to plan the wedding reception and invite all their friends and family.","a, b, c, b, a","2, 3, 4, 3, 2","3, 3, 3, 3, 3"
+"Listener (A): I'm so glad you like it!
+
+Speaker (B): I love it, thank you so much!
+
+Listener (A): It was no problem, I saw it and thought of you immediately.
+
+Speaker (B): It's so beautiful. I can't believe you got me a diamond ring!",What is a breakdown of the last thing said into a series of required subevents?,"(1) acknowledging the listener's thoughtfulness and effort in choosing the ring.
+
+(2) expressing surprise and gratitude towards the listener for the gift.
+
+(3) the speaker expressing surprise and gratitude towards the listener for the gift.
+
+(4) expressing surprise at the listener's choice of ring.
+
+(5) the speaker feeling surprised and grateful for the listener's thoughtfulness.","a, b, b, b, b","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): Welcome , young man . No offence , but I haven't seen you here before .
+
+Speaker (B): Of course , this is my first time here . My Mom has a membership here . Here is the card .
+
+Listener (A): Okay then . You are the younger customer here ever .
+
+Speaker (B): It's not so wise that you do not explore the children's market .
+
+Listener (A): It's the marketing's fault , I suppose.What do you want to do ?
+
+Speaker (B): Well , I want to become just like Bruce Lee . What should I do ?
+
+Listener (A): That's a long way to go , I'm afraid . First of all , you gotta grow up .
+
+Speaker (B): I am still young . And I'm growing every minute .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) by the belief that they can achieve anything they set their mind to.
+
+(2) by a sense of adventure and exploration, eager to explore new things and take risks.
+
+(3) by the desire to prove themselves and their abilities to others.
+
+(4) by a desire to prove themselves and their abilities to others.
+
+(5) by a sense of adventure and exploration, and sees the gym as a place to explore and discover new things.","a, b, c, c, d","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): I have a good feeling about this house .
+
+Speaker (B): Yes , I liked it the first moment I pulled up to it .
+
+Listener (A): I love the paint job !
+
+Speaker (B): If you like the outside , you are going to really love the inside .",What could have caused the last thing said to happen?,"(1) B wants A to know that they are going to love the inside of the house.
+
+(2) A told B that they liked the outside of the house.
+
+(3) The listener has expressed his liking for the paint job of the house.
+
+(4) The speaker is a real estate agent.
+
+(5) B wanted to let A know that they would love the inside of the house.","a, b, b, c, a","2, 2, 2, 3, 2","1, 1, 1, 3, 1"
+"Speaker (A): Carson was ignoring me all day. He was really into his work.
+
+Listener (B): Why did you stay there then?
+
+Speaker (A): I didn't. I left so he could focus, but I was really hoping to hang out with him.",What is a likely characteristic of Speaker based on what they just said?,"(1) The speaker is a selfish person.
+
+(2) The speaker is a social butterfly.
+
+(3) The speaker is a good friend.
+
+(4) The speaker is impulsive.
+
+(5) The speaker is selfish.","a, b, c, d, a","2, 4, 4, 2, 2","2, 2, 2, 2, 2"
+"Speaker (A): Hey. How are you doing?
+
+Listener (B): I'm doing alright. How about you?
+
+Speaker (A): Good, good. Say, I've been meaning to talk to you about something for a while now.",What could have caused the last thing said to happen?,"(1) the speaker's desire to discuss a personal matter with the listener.
+
+(2) a recent event or news that the speaker wants to share with the listener.
+
+(3) the listener's recent behavior or actions that the speaker wanted to address.
+
+(4) the speaker feeling like they have something important to share with the listener.
+
+(5) the speaker wanting to discuss a personal matter with the listener.","a, b, c, a, a","4, 4, 4, 4, 4","2, 2, 3, 2, 2"
+Speaker (A): batina and simon are getting married next month .,What will Listener want to do next based on what Speaker just said?,"(1) To be happy for them
+
+(2) To attend the wedding.
+
+(3) To attend the wedding
+
+(4) Find out more
+
+(5) Go to the wedding","a, b, b, c, b","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Hello, Ultimate Computers. May I help you?
+
+Speaker (B): Yes, this is Jack Kordell from Hunter's Office Supplies. May I speak to Elaine Strong, please?
+
+Listener (A): I'm sorry, but she's not in right now. She should be here later in the afternoon, maybe about 4:30. May I take a message?
+
+Speaker (B): Yes. Ms. Strong sent me your newest line of laptop computers with a description of other software products, but there wasn't any information about after sales service.
+
+Listener (A): Oh, I'm sorry. Would you like me to fax that to you?
+
+Speaker (B): Yes. Could you try sending that information around 3:30? That should give me time to look over the material before I call Ms. Strong, say, around 5:00.
+
+Listener (A): Sure. Could I have your name, telephone number, and fax number, please?
+
+Speaker (B): Yes. Jack Kordell and the phone number is 560 1287. And the fax number is 560 1288.
+
+Listener (A): All right. I'll be sure to send you the fax this afternoon.
+
+Speaker (B): Okay, bye.",How does Listener feel because of what Speaker just said?,"(1) The listener is happy to help the speaker.
+
+(2) The listener is happy that he was able to help the speaker.
+
+(3) The listener is relieved that he will be able to help the speaker.
+
+(4) The listener is happy to help mr. kordell.
+
+(5) The listener is happy to help mr. jack kordell.","a, a, a, a, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (B): i like cooking macrobiotic and healthy food and working out at the gym
+
+Listener (A): what is macrobiotic food ? my best friend is my mother
+
+Speaker (B): things like whole grains . i drink at bars so i have to stay healthy
+
+Listener (A): you should not drink a lot , its bad for you
+
+Speaker (B): well that is where i meet women , at bars . so i end up drinking",What will Listener want to do next based on what Speaker just said?,"(1) To get drunk
+
+(2) Drink more
+
+(3) To stop drinking
+
+(4) Drink more water
+
+(5) Get drunk","a, a, b, c, a","3, 3, 3, 3, 3","1, 1, 1, 2, 1"
+"Listener (A): Sorry . What was that you said ?
+
+Speaker (B): I'll meet you at the Gate round about seven .
+
+Listener (A): Where ?
+
+Speaker (B): At the Gate .
+
+Listener (A): When , did you say ?
+
+Speaker (B): Round about seven .
+
+Listener (A): Who's coming ?
+
+Speaker (B): Peter . Peter Brown , you know . Don't forget to bring the letter .",What prerequisites are required for the last thing said to occur?,"(1) The listener has a letter from peter brown.
+
+(2) The speaker knows peter brown.
+
+(3) The speaker has a meeting with peter brown.
+
+(4) The speaker has to meet peter brown at the gate.
+
+(5) The speaker has a letter from peter brown.","a, b, c, c, a","2, 4, 4, 4, 2","2, 2, 2, 2, 2"
+"Listener (A): Daddy, what's this?
+
+Speaker (B): It's a map of the United States, baby.",What prerequisites are required for the last thing said to occur?,"(1) the speaker is familiar with the geography of the united states.
+
+(2) for this to happen, the listener must have a basic understanding of geography and geography terms.
+
+(3) the speaker has a good memory and can recall the location of the map.
+
+(4) the listener is interested in maps and geography.
+
+(5) the listener has a basic understanding of geography and geography terms.","a, b, c, d, b","4, 2, 2, 4, 2","3, 3, 3, 3, 3"
+"Listener (A): hey jennie , saturday is my birthday , and i was wondering if you 'd like to come to my party ? you can come along with your brother .
+
+Speaker (B): oh , i 'm sorry . i think i may already have plans to go to my grandparents house with my father .
+
+Listener (A): ok , i hope you have a good time .
+
+Speaker (B): thank you and i hope your party 's fun . anyway , see you in class on monday .",What does Speaker want to do next?,"(1) to make sure that they have enough time to enjoy their grandparents' house and not miss out on the party.
+
+(2) to plan a surprise party for their brother for his upcoming birthday.
+
+(3) to prioritize their own plans for the weekend.
+
+(4) to make sure they have enough time to enjoy their grandparents' house and not miss out on the party.
+
+(5) to prioritize their family time and spend saturday with their loved ones.","a, b, c, a, d","4, 2, 4, 4, 4","3, 3, 2, 3, 3"
+"Listener (A): You're spending a very long time on my hair .
+
+Speaker (B): I'm almost done .
+
+Listener (A): I needed you to be done and finished an hour ago .
+
+Speaker (B): I'm all done now .
+
+Listener (A): Are you sure you're finished ?
+
+Speaker (B): I don't understand .
+
+Listener (A): You did a horrible job on my hair .
+
+Speaker (B): What's wrong with it ?
+
+Listener (A): I don't like anything about it .
+
+Speaker (B): I apologize .
+
+Listener (A): That's fine , but I'm not paying for it .
+
+Speaker (B): Excuse me ? Let's try to work this out , okay ?",How does Listener feel because of what Speaker just said?,"(1) The listener is hopeful that they will be able to resolve the issue.
+
+(2) The listener is hopeful that they will be able to resolve the matter.
+
+(3) The listener is disappointed with the speaker's attitude.
+
+(4) The listener is hopeful that the speaker will accept his apology.
+
+(5) The listener is hopeful that he will get his money back.","a, a, b, c, d","3, 3, 4, 1, 4","2, 2, 3, 2, 2"
+"Listener (A): Keenen, I need to speak with you.
+
+Speaker (B): Yes, Lindsey? What is it?
+
+Listener (A): I'm taking over your duties as head of security. You're no longer needed.
+
+Speaker (B): What? But why? I don't understand.
+
+Listener (A): Because I want to be in charge. And I can do a better job than you can.
+
+Speaker (B): But this is my job! I'm the one who's supposed to be in charge of security!",What will Listener want to do next based on what Speaker just said?,"(1) to explain their reasons for taking over the security duties and convince speaker that they are the best person for the job.
+
+(2) to discuss the details of the new security plan with speaker to ensure it aligns with the company's goals and objectives.
+
+(3) to explain their reasons for wanting to take over the security duties.
+
+(4) to convince speaker that they are the best person for the job and that they can handle the responsibilities.
+
+(5) to negotiate with speaker to ensure that they both understand their roles and responsibilities.","a, b, a, a, c","4, 2, 4, 4, 4","3, 3, 2, 3, 3"
+"Speaker (B): let 's eat early today . then , maybe we can go to a movie afterwards .
+
+Listener (A): good idea . why do n't we have dinner around 6:00 o'clock ?
+
+Speaker (B): ok , and where do you want to meet ?",What will Listener want to do next based on what Speaker just said?,"(1) To meet with the speaker
+
+(2) To meet the speaker
+
+(3) To eat dinner
+
+(4) To have dinner
+
+(5) To go to the restaurant","a, a, b, b, c","4, 4, 4, 4, 4","1, 1, 1, 1, 2"
+"Speaker (A): Hi! I'm just looking around today.
+
+Listener (B): Okay! Let me know if you need any help.
+
+Speaker (A): Thanks! I will. So, what's new at the store?",What will Listener want to do next based on what Speaker just said?,"(1) Buy something new
+
+(2) To help
+
+(3) To buy something
+
+(4) Want to know more
+
+(5) To buy something new","a, b, a, c, a","2, 4, 2, 3, 2","2, 2, 2, 2, 2"
+"Listener (A): Hi , Mary , I have decided to look for a job as a salesman .
+
+Speaker (B): Good ! Have you got the recruitment information on marketing ?
+
+Listener (A): Yes . I have found some through different channels .
+
+Speaker (B): Really ? That's great ! Tell me .",What might happen after what Speaker just said?,"(1) The speaker asks the listener about his experience in marketing.
+
+(2) B tells A about the job openings.
+
+(3) The listener shares his experience in marketing.
+
+(4) The speaker informed the listener about the interview process.
+
+(5) B asks A to share his resume with them.","a, b, c, d, e","3, 3, 4, 4, 4 ","2, 2, 2, 2, 3"
+"Speaker (A): Friend: Pierre, what's wrong? You look like you're about to panic.
+
+Listener (B): I am! I feel so overwhelmed and excited, my heart is racing and I can't catch my breath.
+
+Speaker (A): Okay, let's try to calm down. Take a few deep breaths with me. Inhale... and exhale slowly. There you go. Now, tell me what's got you so worked up.",What is a likely characteristic of Speaker based on what they just said?,"(1) The speaker is a supportive friend.
+
+(2) The speaker is calm.
+
+(3) The speaker is a caring friend.
+
+(4) The speaker is a calm person.
+
+(5) The speaker is a good friend.","a, b, a, b, a","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television
+
+Listener (A): cool ! what you watching . i might play video games in a bit
+
+Speaker (B): a show about traveling i love to travel",What is a breakdown of the last thing said into a series of required subevents?,"(1) Have fun
+
+(2) Get on plane
+
+(3) Find out where going
+
+(4) See new places
+
+(5) To go somewhere","a, b, c, d, c","3, 3, 1, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Welcome , young man . No offence , but I haven't seen you here before .
+
+Speaker (B): Of course , this is my first time here . My Mom has a membership here . Here is the card .
+
+Listener (A): Okay then . You are the younger customer here ever .
+
+Speaker (B): It's not so wise that you do not explore the children's market .
+
+Listener (A): It's the marketing's fault , I suppose.What do you want to do ?
+
+Speaker (B): Well , I want to become just like Bruce Lee . What should I do ?
+
+Listener (A): That's a long way to go , I'm afraid . First of all , you gotta grow up .
+
+Speaker (B): I am still young . And I'm growing every minute .",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) The speaker is confident about his future.
+
+(2) B wants to show that he is still young.
+
+(3) B wants to prove A wrong.
+
+(4) The speaker is happy to be young.
+
+(5) The speaker wants to grow up.","a, b, c, d, e","4, 2, 4, 2, 4","2, 2, 3, 2, 2"
+"Speaker (A): ""Sure thing, boss. I'll be sure to take notes on the new project.""
+
+Listener (B): ""Great. So, as you know, we're starting a new project soon, and I want you to be a part of it.""
+
+Speaker (A): ""Absolutely. I'm excited to get started.""
+
+Listener (B): ""Good. The project is going to be a bit challenging, but I think you're up for it.""
+
+Speaker (A): ""I'm definitely up for the challenge. Can you tell me more about the project?""",What could have caused the last thing said to happen?,"(1) the listener's confidence in the speaker's abilities and willingness to take on new challenges.
+
+(2) the speaker's previous experience working on similar projects and their confidence in their abilities.
+
+(3) the speaker's previous experience with similar projects and their willingness to take on new challenges.
+
+(4) the speaker's desire to learn and grow in their role, which is why they are eager to learn more about the new project.
+
+(5) the speaker's willingness to take on new challenges and contribute to the company's success.","a, b, b, c, d","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): You can't tell me what to do, Roxie. I'm not your slave.
+
+Speaker (B): I'm not trying to make you my slave, Keshon. I'm just asking you to take out the trash. It's not that big of a deal.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) Roxie wants Keshon to take out the trash for her.
+
+(2) Roxie wants Keshon to take out the trash.
+
+(3) Roxie does not want to make Keshon her slave.
+
+(4) Roxie wants keshon to take out the trash.
+
+(5) Roxie doesn't want to make Keshon her slave.","a, a, b, a, b","4, 4, 3, 4, 3","1, 1, 1, 1, 1"
+"Speaker (B): hello how are you today ?
+
+Listener (A): hi there , i am good . just enjoying some fired chicken and chocolate cake , you ?
+
+Speaker (B): that sounds good ! i am watching television",What is a likely characteristic of Speaker based on what they just said?,"(1) likely a homebody who enjoys watching tv.
+
+(2) speaker may be someone who enjoys watching tv as a way to relax.
+
+(3) likely someone who enjoys watching tv.
+
+(4) someone who enjoys watching tv.
+
+(5) speaker may have a busy schedule and prefer to spend their free time watching tv.","a, b, a, a, c","4, 4, 4, 4, 4","3, 3, 2, 2, 3"
+"Speaker (A): Sarah, that party was insane! I had the best time dancing all night.
+
+Listener (B): I know, right? It was so much fun! I'm glad we went.
+
+Speaker (A): Yeah, me too. I don't think I've ever danced that much in my life!",What could have caused the last thing said to happen?,"(1) the fact that the party was held in a venue with a large dance floor and plenty of space to move around.
+
+(2) the music and atmosphere of the party, which made it easy for people to let loose and dance.
+
+(3) sarah's newfound love for dancing and the excitement of attending a party.
+
+(4) the music selection at the party, which was upbeat and kept the partygoers dancing all night long.
+
+(5) sarah and the listener being in a good mood and feeling comfortable enough to dance all night.","a, b, c, d, e","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Listener (A): I have a good feeling about this house .
+
+Speaker (B): Yes , I liked it the first moment I pulled up to it .
+
+Listener (A): I love the paint job !
+
+Speaker (B): If you like the outside , you are going to really love the inside .",What could have caused the last thing said to happen?,"(1) the listener's positive reaction to the exterior of the house.
+
+(2) the house having a unique design that sets it apart from other homes in the neighborhood.
+
+(3) the speaker's knowledge of the house's interior design and layout.
+
+(4) the speaker's experience in real estate and knowing that the outside of a house can give a good indication of its interior.
+
+(5) the fact that the house has been recently renovated and updated, making the outside look even better.","a, b, c, d, e","4, 4, 4, 4, 4","3, 3, 3, 3, 3"
+"Speaker (A): Hey, Sarah. How's it going?
+
+Listener (B): Not too bad. How are you?
+
+Speaker (A): I'm good. Just been busy with work and stuff.
+
+Listener (B): Yeah, I can imagine. So, what's new with you?
+
+Speaker (A): Same old, same old. Just working and hanging out with friends. You know how it is.",What is an emotion or human drive that motivates Speaker based on what they just said?,"(1) by the need for social interaction and connection with others.
+
+(2) to maintain a sense of stability and routine in their life.
+
+(3) by a desire to maintain a sense of stability and routine in their life.
+
+(4) by the need to maintain a sense of stability and routine in their life.
+
+(5) by a sense of purpose and fulfillment in their work and social life.","a, b, b, b, c","4, 4, 4, 4, 3","3, 3, 3, 3, 3"
+"Speaker (A): Hey, what's going on?
+
+Listener (B): Just doing my homework.
+
+Speaker (A): Good. You need to keep up with your studies. I don't want you falling behind.
+
+Listener (B): I won't, Dad. I promise.
+
+Speaker (A): Good. I also want you to keep your room clean. It's important to have a tidy space so you can focus on your studies and not be distracted by messes.
+
+Listener (B): Okay, Dad. I'll make sure to keep my room clean from now on.
+
+Speaker (A): Thank you, sweetie. I just want what's best for you.
+
+Listener (B): I know, Dad. I love you.
+
+Speaker (A): I love you too, sweetheart.",How is Speaker feeling after what they just said?,"(1) Proud
+
+(2) Thankful
+
+(3) Loved
+
+(4) Proud
+
+(5) Happy","a, b, c, b, d","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Listener (A): Good morning, Madam. Can I help you?
+
+Speaker (B): Yes, er...I want to see the West End.
+
+Listener (A): How much time do you have?
+
+Speaker (B): Just one day.
+
+Listener (A): Well, what do you particularly want to do?
+
+Speaker (B): I want to visit museums, art galleries, Buckingham Palace, do some shopping, and go to the theaters.
+
+Listener (A): But you only have one day.
+
+Speaker (B): That's right.
+
+Listener (A): Well. Why not do some shopping first?
+
+Speaker (B): Where can I do that?
+
+Listener (A): In Oxford Street.
+
+Speaker (B): How can I get there?
+
+Listener (A): You can walk through Hyde Park. It's quite near.
+
+Speaker (B): Wonderful. Thanks for your help.",What could have caused the last thing said to happen?,"(1) the speaker's appreciation for the listener's helpfulness.
+
+(2) the speaker's desire to make the most of their time in london.
+
+(3) the speaker being grateful for the listener's assistance.
+
+(4) the listener's friendly and helpful demeanor.
+
+(5) the listener's helpful suggestion.","a, b, a, c, c","4, 4, 4, 4, 4","2, 2, 2, 2, 2"
+"Speaker (A): ""Sure thing, boss. I'll be sure to take notes on the new project.""
+
+Listener (B): ""Great. So, as you know, we're starting a new project soon, and I want you to be a part of it.""
+
+Speaker (A): ""Absolutely. I'm excited to get started.""
+
+Listener (B): ""Good. The project is going to be a bit challenging, but I think you're up for it.""
+
+Speaker (A): ""I'm definitely up for the challenge. Can you tell me more about the project?""",What could have caused the last thing said to happen?,"(1) The listener informed the speaker that the new project would be challenging.
+
+(2) The listener informed the speaker that the new project is going to be challenging.
+
+(3) The listener informed the speaker that the project will be a bit challenging.
+
+(4) The listener informed the speaker that the new project was going to be challenging.
+
+(5) The listener informed the speaker about the new project.","a, a, a, a, a","2, 2, 2, 2, 2","1, 1, 1, 1, 1"
