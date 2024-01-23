@@ -66,16 +66,22 @@ Our best-performing ConvoSense-trained model (ConvoSenseM*) is located at `model
 
 The script at `gen/cs_generation.py` is used for predicting inferences using the trained model.
 
-Parsed versions of the ConvoSense data that are compatible with `cs_generation.py` can be compiled by executing `parse_format.py`.
+Parsed versions of the ConvoSense data (`data/convosense/{train|dev|test}_onlydialogues.jsonl`) that are compatible with `cs_generation.py` can be compiled by executing `parse_format.py`.
+
+Command (with current working directory `data/`): `python parse_format.py`
 
 These parsed versions are compatible with the provided data loading functions in `data/load.py` which loads the data as a `Dialogues` object from `data/dialogues_struct.py`:
 
 ```python
 import data.load as data_loader
-data = data_loader.load_data(file='test_onlydialogues.json')
+data = data_loader.load_data(
+    filepath='data/convosense/test_onlydialogues.json'
+)
 ```
 
 This `Dialogues` object is used in the commonsense inference generation script at `gen/cs_generation.py` for predicting inferences using the trained model.
+
+To generate inferences for other dialogues, follow the structure of `data/convosense/test_onlydialogues.json` to create a file with your desired dialogues.
 
 ## Evaluation Results
 

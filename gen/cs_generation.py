@@ -1,17 +1,19 @@
-from models.t5 import GPT_CS_GENERATOR
+from models.best_model import GPT_CS_GENERATOR
 from models.utils import COMMONSENSE_LS
 import data.load as data_loader
 
 
 if __name__ == '__main__':
+    data = data_loader.load_data(
+        filepath='data/convosense/test_onlydialogues.json'
+    )
+        
     model = GPT_CS_GENERATOR
     model.load_model(model.modelpath)
     model.attach()
-    data = data_loader.load_data(
-        file='test_onlydialogues.json'
-    )
+
     items_with_q = []
-    for dialogue in data:
+    for dialogue in data[:1]:
         for turn in dialogue.turns_to_execute():
             for q in COMMONSENSE_LS:
                 item = {
@@ -35,5 +37,5 @@ if __name__ == '__main__':
 
     data_loader.rebuild_and_save_cs(
         data=data, 
-        file=f'{model.name}_test.json'
+        filepath=f'gen/{model.name}_convosense_test.json'
     )
