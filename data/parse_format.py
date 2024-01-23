@@ -2,7 +2,7 @@ import json
 
 def convert_jsonl_input(dir, file):
     collection = {'collection': []}
-    with open(f'data/{dir}/{file}.jsonl') as f:
+    with open(f'{dir}/{file}.jsonl') as f:
         data = [json.loads(line) for line in f.readlines()]
     covered_dialogues = set()
     for d in data:
@@ -24,7 +24,7 @@ def convert_jsonl_input(dir, file):
             }
             collection['collection'].append(dialogue)
             covered_dialogues.add(did)
-    json.dump(collection, open(f'data/{dir}/{file}_onlydialogues.json', 'w'), indent=2)
+    json.dump(collection, open(f'{dir}/{file}_onlydialogues.json', 'w'), indent=2)
 
 
 if __name__ == '__main__':

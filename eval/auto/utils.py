@@ -7,15 +7,16 @@ from transformers import (
     AutoTokenizer,
     T5ForConditionalGeneration,
 )
-from eval.auto.global_vars import BEAMED_GENERATIONS, SELECTED_ARGS, BEAMED_GENERATIONS_SCORES
+from eval.auto.global_vars import BEAMED_GENERATIONS, BEAMED_GENERATIONS_SCORES
 
 def get_output_filepaths(checkpoint_path, epoch, modelname, filepath, repetition_penalty, divbeam_dict):
     if filepath is None:
         return None
     output_dir = checkpoint_path.replace('/', '-') if epoch is not None else modelname
     output_dataname = filepath.replace('/', '-').replace('.json', '') + (f"_rp{repetition_penalty}" if repetition_penalty != 1.0 else '') + (''.join([f"_{k}{v}" for k,v in divbeam_dict.items() if k not in {'batch_size'}]) if divbeam_dict else '')
-    print(output_dir)
-    print(output_dataname)
+    print("Output Filepaths:")
+    print("\tDirectory:", output_dir)
+    print("\tFile:", output_dataname)
     return output_dir, output_dataname
 
 def load_results(checkpoint_path, filepath, epoch, modelname, repetition_penalty, divbeam_dict, save_dir='evaluation/model_outputs'):

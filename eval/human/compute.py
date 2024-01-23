@@ -278,7 +278,7 @@ def model_detailedness():
         novelty_labels=novelty_fine_labels
     )
     # distributions over all types
-    sums_all_ls = get_sums(novelty_df.drop(['task_id', 'type', 'sarah'], axis='columns').groupby('source'))
+    sums_all_ls = get_sums(novelty_df.drop(['task_id', 'type'], axis='columns').groupby('source'))
     typeless_indices = [(s, c) for s in novelty_df['source'].unique().tolist() for c in novelty_fine_labels.values()]
     sums_perc_all = get_percentages(sums_all_ls, indices=typeless_indices)
     print(sums_perc_all)
@@ -312,19 +312,24 @@ def model_detailedness():
     # ax.get_legend().remove()
     ax.set_ylim(0, 0.80)
 
-
     # Show the plot
-    plt.savefig('eval/human/models/models_detailed.png')
+    plt.show()
 
 
 
 if __name__ == '__main__':
 
     # get reasonability, novelty, and diversity results for model inferences
+    print('## models ##')
     coarse_results_for_models()
 
     # get detailedness of model inferences
     model_detailedness()
 
+    print()
+    print('##################################')
+    print()
+
     # get reasonability, novelty, detailedness, and diversity results for ConvoSense data
+    print('## convosense ##')
     coarse_results_for_gpt()

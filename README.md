@@ -14,8 +14,8 @@ We release our dataset ConvoSense and our best-performing dialogue commonsense g
 
 * Python >=3.9
 * `requirements.txt`
-    * Usage: pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
-    * IMPORTANT: Make sure to update the `torch` installation to be compatible with the GPU on your machine. 
+    * Usage: `pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html`
+    * IMPORTANT: Make sure to update the `torch` requirement to be compatible with the GPU on your machine. 
 
 ## Data
 
@@ -31,23 +31,42 @@ Since ConvoSense was generated to include multiple inferences per context and ty
 
 ```json
 {
-    "id": "soda_7255_batman_safia_spiderman_tickets", # dialogue id
-    "type": "cause", # commonsense type
-    "question": "What could have caused the last thing said to happen?", # commonsense type as question
-    "context": "Listener: Hey Beatriz, do you want to go see a movie with me?\nSpeaker: Sure, that sounds like fun. What movie do you want to see?\nListener: I don't know, there are a lot of good ones out right now. Do you have any suggestions?\nSpeaker: Well, I've been wanting to see the new Batman movie.", # dialogue context
+    # dialogue id
+    "id": "soda_7255_batman_safia_spiderman_tickets",
+    # commonsense type
+    "type": "cause",
+    # commonsense type as question
+    "question": "What could have caused the last thing said to happen?", 
+    # dialogue context
+    "context": "Listener: Hey Beatriz, do you want to go see a movie with me?\nSpeaker: Sure, that sounds like fun. What movie do you want to see?\nListener: I don't know, there are a lot of good ones out right now. Do you have any suggestions?\nSpeaker: Well, I've been wanting to see the new Batman movie.", 
+    # all GPT-generated commonsense inferences of specified type for the dialogue context
     "all_answers": [
         "the speaker's interest in superhero films.", 
         "the speaker seeing a trailer for the new batman movie.", 
         "the speaker's desire to see the latest blockbuster film.", 
         "the speaker being excited about the cast and director of the new batman movie.", 
         "the speaker hearing positive reviews about the new batman movie from friends or online."
-    ], # all GPT-generated commonsense inferences of specified type for the dialogue context
-    "input": "Listener: Hey Beatriz, do you want to go see a movie with me?\nSpeaker: Sure, that sounds like fun. What movie do you want to see?\nListener: I don't know, there are a lot of good ones out right now. Do you have any suggestions?\nSpeaker: Well, I've been wanting to see the new Batman movie.\n\n[Question] What could have caused the last thing said to happen?\n[Answer]", # datapoint converted to model input format 
-    "output": "the speaker's interest in superhero films.",  # datapoint converted to model output format 
+    ], 
+    # datapoint converted to model input format 
+    "input": "Listener: Hey Beatriz, do you want to go see a movie with me?\nSpeaker: Sure, that sounds like fun. What movie do you want to see?\nListener: I don't know, there are a lot of good ones out right now. Do you have any suggestions?\nSpeaker: Well, I've been wanting to see the new Batman movie.\n\n[Question] What could have caused the last thing said to happen?\n[Answer]",
+    # datapoint converted to model output format  
+    "output": "the speaker's interest in superhero films.",  
 }
 ```
 
-Parsed versions of the data are also available at `data/{train/dev/test}_onlydialogues.json`. These parsed versions were compiled by executing `data/parse_format.py` to convert the original data into an easier-to-use format.
+HumanGen dataset files are also available at `data/humangen/{train|dev|test}.jsonl`.
+
+## Trained Model
+
+NOTE: Due to its large size, we are still working on directly providing the model checkpoint. For now, if you would like access to the model, please send an email to "sfillwo@emory.edu". 
+
+Our best-performing ConvoSense-trained model (ConvoSenseM*) is located at `models/convosense_m_star`.
+
+### Inference
+
+The script at `gen/cs_generation.py` is used for predicting inferences using the trained model.
+
+Parsed versions of the ConvoSense data that are compatible with `cs_generation.py` can be compiled by executing `parse_format.py`.
 
 These parsed versions are compatible with the provided data loading functions in `data/load.py` which loads the data as a `Dialogues` object from `data/dialogues_struct.py`:
 
@@ -58,45 +77,46 @@ data = data_loader.load_data(file='test_onlydialogues.json')
 
 This `Dialogues` object is used in the commonsense inference generation script at `gen/cs_generation.py` for predicting inferences using the trained model.
 
-HumanGen dataset files are also available at `data/humangen/{train|dev|test}.jsonl`.
-
-## Trained Model
-
-NOTE: Due to its large size, we are still working on directly providing the model checkpoint. For now, if you would like access to the model, please send an email to "sfillwo@emory.edu". 
-
-Our best-performing ConvoSense-trained model (ConvoSenseM*) is located at `models/convosense_m_star`.
-
-The script at `gen/cs_generation.py` is used for predicting inferences using the trained model.
-
 ## Evaluation Results
 
 ### GPT vs Human Inferences Human Evaluation (Section 3.3)
 
 `eval/gpt_vs_human/` contains the code and data for running the analyses to compare GPT and Human inferences on the datapoints from existing human-written datasets. The script for computing the results seen in paper Section 3.3 is `eval/gpt_vs_human/compute.py`. The annotations performed by Surgers that these analyses are based on can be found in `eval/gpt_vs_human/annotations/`.
 
+Command:
+`PYTHONPATH=. python eval/gpt_vs_human/compute.py`
+
 ### ConvoSense & Models Human Evaluation (Sections 4.2 and 6.3)
 
 `eval/human/` contains the code and data for running the analyses on the human evaluations of the models (paper Section 6.3) and ConvoSense data (paper Section 4.2). The script for computing the results is `eval/human/compute.py`. The annotations performed by the human expert that these analyses are based on can be found in `eval/human/{convosense|models}/annotations/`.
+
+Command: `PYTHONPATH=. python eval/human/compute.py`
 
 ### Models Automatic Evaluation (Section 6.1)
 
 To calculate automatic metrics on HumanGen and ConvoSense test sets for the best ConvoSense-trained model (ConvoSenseM*):
 
-`python eval/auto/compute.py gpt test gpt_test_metrics_savedscores_bleu.csv qmatch`
+Command: `PYTHONPATH=. python eval/auto/compute.py gpt test gpt_test_metrics_savedscores_bleu.csv qmatch`
 
 ### Models Automatic Diversity Evaluation (Section 6.2)
 
-`eval/diversity/` contains the code and data for running the analyses on the GPT4 diversity evaluations of the models (paper Section 6.2). The script for computing the results is `eval/diversity/compute.py`. The annotations outputted by GPT4 that these analyses are based on can be found in `eval/diversity/annotations/`. The script that was used to get the GPT4 diversity annotations is `eval/diversity/gpt_as_diversity_evaluator.py`.
+`eval/diversity/` contains the code and data for running the analyses on the GPT4 diversity evaluations of the models (paper Section 6.2). The script for computing the results is `eval/diversity/compute.py`. The annotations outputted by GPT4 that these analyses are based on can be found in `eval/diversity/annotations/`. 
 
-You need to put your OpenAI api key into an environment variable called `OPENAI`.
+Command: `PYTHONPATH=. python eval/diversity/compute.py`
+
+The script that was used to get the GPT4 diversity annotations is `eval/diversity/gpt_as_diversity_evaluator.py`. If you want to try running it, you need to put your OpenAI api key into an environment variable called `OPENAI`.
+
+NOTE: The script `eval/diversity/gpt_as_diversity_evaluator.py` is intended to be documentation on the diversity automatic annotation process; there is no need to rerun this code since the GPT4 outputs are provided at `eval/diversity/annotations`!
 
 ## Interface for GPT Collection
 
 The code used to generated ConvoSense using ChatGPT3.5 is located in `data/soda/`.
 
-`data/soda/convosense_generation.py` contains the script that was executed for the full data collection process.
+`data/soda/convosense_generation.py` contains the script that was executed for the full data collection process. If you want to try running it, you need to put your OpenAI api key into an environment variable called `OPENAI`.
 
 NOTE: This is intended to be documentation on the collection process; there is no need to rerun this code since the ConvoSense dataset is provided at `data/convosense`!
+
+Command: `PYTHONPATH=. python data/soda/convosense_generation.py`
 
 ## Reproduce Model Training
 

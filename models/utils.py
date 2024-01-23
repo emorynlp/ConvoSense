@@ -66,3 +66,10 @@ def add_speaker_to_lines(lines: list[str]) -> str:
     )
     dia = '\n'.join(elements)
     return dia
+
+def chunks(lst, n):
+    """Return successive n-sized chunks from lst."""
+    outs = []
+    for i in range(0, len(lst), n):
+        outs.append(lst[i:i + n])
+    return outs

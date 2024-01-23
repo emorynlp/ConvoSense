@@ -119,7 +119,7 @@ def interannotator_agreement(inputs):
     Calculate and display interannotator agreement (raw, ka, ac1/2)
     """
     for criteria in ['reasonability', 'novelty']:
-        for granularity in ['fine', 'coarse']:
+        for granularity in ['coarse']:
             print('#'*50)
             print(f'{criteria} - {granularity}')
             print('#' * 50)
@@ -172,16 +172,11 @@ def human_evaluation_stat_test(dir, runs=1):
     results = {}
 
     for i in range(runs):
-        print(i)
         for all in [False]:
             criteria_pd = mc_to_pd_item(dir=dir, to_labels=granularity_labels, all=all)
             for criteria in ['reasonability', 'novelty']:
                 for granularity in ['coarse']:
                     results.setdefault(criteria, {}).setdefault(granularity, {})
-                    print('#'*50)
-                    print(f'{criteria} - {granularity} - all_data: {all}')
-                    print('#' * 50)
-                    print()
                     categories = list(set(granularity_labels[granularity][criteria].values()))
                     sources = criteria_pd['source'].unique().tolist()
                     types = criteria_pd['type'].unique().tolist()
@@ -192,14 +187,10 @@ def human_evaluation_stat_test(dir, runs=1):
                     criteria_labels.columns = ['type', 'source', 'task_id', 'label']
                     sums_ls = get_sums(criteria_labels.drop(['task_id'], axis='columns').groupby(['type', 'source']))
                     sums_perc = get_percentages(sums_ls, indices=indices)
-                    # print(sums_perc)
-                    # print()
                     # distributions over all types
                     sums_all_ls = get_sums(criteria_labels.drop(['task_id', 'type'], axis='columns').groupby('source'))
                     typeless_indices = [(s, c) for s in sources for c in categories]
                     sums_perc_all = get_percentages(sums_all_ls, indices=typeless_indices)
-                    print(sums_perc_all)
-                    print()
 
                     # paired datapoints
                     for s in sources:
@@ -210,15 +201,11 @@ def human_evaluation_stat_test(dir, runs=1):
                             sums_ls = get_sums(paired.drop('task_id', axis='columns').groupby(['type', 'source']))
                             sums_perc = get_percentages(sums_ls, indices=[x for x in indices if x[1] in {'gpt', s}])
                             sums_perc = sums_perc.dropna()
-                            # print(sums_perc)
-                            # print()
                             # distributions over all types
                             sums_all_ls = get_sums(paired.drop(['task_id', 'type'], axis='columns').groupby('source'))
                             typeless_indices = [(s, c) for s in {'gpt', s} for c in categories]
                             sums_perc_all = get_percentages(sums_all_ls, indices=typeless_indices)
                             sums_perc_all = sums_perc_all.dropna()
-                            print(sums_perc_all)
-                            print()
                             if not all and granularity == 'coarse':
                                 # statistical testing for COARSE evaluations ONLY
 
@@ -231,21 +218,6 @@ def human_evaluation_stat_test(dir, runs=1):
                                 ]
                                 reasonable = reasonable[[s, 'gpt']]
                                 reasonable = reasonable.sort_values('gpt', ascending=True)
-                                # # Plot figures
-                                # if s == 'comfact':
-                                #     ax = reasonable.plot.bar(
-                                #         ylim=(0.5, 1.01), rot=0, figsize=(10,5), fontsize=20,
-                                #         xlabel='', color=['teal', 'indigo'] if criteria == 'reasonability' else ['sandybrown', 'firebrick'])
-                                #     ax.legend(ncol=2, bbox_to_anchor=(0.5, 1.2), loc='upper center', fontsize=20)
-                                # else:
-                                #     ax = reasonable.plot.bar(
-                                #         ylim=(0.5, 1.01), rot=0, figsize=(5, 5), fontsize=20,
-                                #         xlabel='', color=['teal', 'indigo'] if criteria == 'reasonability' else ['sandybrown', 'firebrick'],
-                                #         width=0.4)
-                                #     ax.legend(ncol=2, bbox_to_anchor=(0.5, 1.2), loc='upper center', fontsize=20)
-                                # plt.tight_layout()
-                                # plt.savefig(f"{dir}/{criteria}-{s}.pdf", format='pdf', bbox_inches='tight')
-                                # plt.show()
 
                                 # 2x2 contigency table
                                 other_labels = paired[paired['source'] == s].set_index('task_id').drop(['type', 'source'], axis='columns')
@@ -269,12 +241,7 @@ def human_evaluation_stat_test(dir, runs=1):
                                 total = len(both_success) + len(both_fail) + len(gpt_win) + len(other_win)
                                 gpt_dp = len(gpt_win) / total
                                 other_dp = len(other_win) / total
-                                print(contingency_table)
-                                print(f"gpt discordance p={gpt_dp:.2f}")
-                                print(f"other discordance p={other_dp:.2f}")
                                 result = mcnemar(contingencies, exact=False, correction=False)
-                                print('statistic=%.3f, p-value=%.3f' % (result.statistic, result.pvalue))
-                                print()
 
                                 results[criteria][granularity].setdefault(s, []).append(
                                     (sums_perc_all.iloc[:, 1], gpt_dp, other_dp, result.pvalue)
@@ -289,16 +256,11 @@ def human_evaluation_novelty_finegrained(dir, runs=1):
     results = {}
 
     for i in range(runs):
-        print(i)
         for all in [False]:
             criteria_pd = mc_to_pd_item(dir=dir, to_labels=granularity_labels, all=all)
             for criteria in ['novelty']:
                 for granularity in ['fine']:
                     results.setdefault(criteria, {}).setdefault(granularity, {})
-                    print('#'*50)
-                    print(f'{criteria} - {granularity} - all_data: {all}')
-                    print('#' * 50)
-                    print()
                     categories = list(set(granularity_labels[granularity][criteria].values()))
                     sources = criteria_pd['source'].unique().tolist()
                     types = criteria_pd['type'].unique().tolist()
@@ -309,14 +271,10 @@ def human_evaluation_novelty_finegrained(dir, runs=1):
                     criteria_labels.columns = ['type', 'source', 'task_id', 'label']
                     sums_ls = get_sums(criteria_labels.drop(['task_id'], axis='columns').groupby(['type', 'source']))
                     sums_perc = get_percentages(sums_ls, indices=indices)
-                    # print(sums_perc)
-                    # print()
                     # distributions over all types
                     sums_all_ls = get_sums(criteria_labels.drop(['task_id', 'type'], axis='columns').groupby('source'))
                     typeless_indices = [(s, c) for s in sources for c in categories]
                     sums_perc_all = get_percentages(sums_all_ls, indices=typeless_indices)
-                    print(sums_perc_all)
-                    print()
 
                     # paired datapoints
                     for s in sources:
@@ -327,15 +285,11 @@ def human_evaluation_novelty_finegrained(dir, runs=1):
                             sums_ls = get_sums(paired.drop('task_id', axis='columns').groupby(['type', 'source']))
                             sums_perc = get_percentages(sums_ls, indices=[x for x in indices if x[1] in {'gpt', s}])
                             sums_perc = sums_perc.dropna()
-                            # print(sums_perc)
-                            # print()
                             # distributions over all types
                             sums_all_ls = get_sums(paired.drop(['task_id', 'type'], axis='columns').groupby('source'))
                             typeless_indices = [(s, c) for s in {'gpt', s} for c in categories]
                             sums_perc_all = get_percentages(sums_all_ls, indices=typeless_indices)
                             sums_perc_all = sums_perc_all.dropna()
-                            print(sums_perc_all)
-                            print()
                             
                             results[criteria][granularity].setdefault(s, []).append(
                                 sums_perc_all
@@ -352,7 +306,6 @@ def human_evaluation_novelty_finegrained(dir, runs=1):
         if 'gpt' not in source:
             combined = pd.concat(results['novelty']['fine'][source], axis=0)
             averaged = combined.groupby(combined.index).mean()
-            print(averaged)
             normalized = averaged[[2,3]].div(averaged[[2,3]].sum(axis=1), axis=0).reset_index()
             normalized.columns = ['source'] + list(normalized.columns)[1:]
             normalized['source'] = normalized['source'].apply(lambda x: x[0])
@@ -397,7 +350,7 @@ def human_evaluation_novelty_finegrained(dir, runs=1):
     ax.tick_params(axis='y', which='both', left=False)
 
     # Show the plot
-    plt.savefig('eval/gpt_vs_human/detailed.png')
+    plt.show()
 
 
 if __name__ == "__main__":
@@ -420,7 +373,7 @@ if __name__ == "__main__":
         for granularity, sources in granularities.items():
             for source, statistics in sources.items():
                 print(f'\t{source}')
-                print(f"\tP-value < 0.05: {np.mean([1 if x[3] < 0.05 else 0 for x in statistics]):.3f}")
+                print(f"\t% of runs where p-value < 0.05: {np.mean([1 if x[3] < 0.05 else 0 for x in statistics])*100:.1f}")
                 avg_gpt, std_gpt = np.mean([x[0]['gpt'] for x in statistics]), np.std([x[0]['gpt'] for x in statistics]) # average proportion of gpt inferences
                 avg_other, std_other = np.mean([x[0][source] for x in statistics]), np.std([x[0][source] for x in statistics]) # average proportion of other_data inferences
                 avg_gpt_dp = np.mean([x[1] for x in statistics])

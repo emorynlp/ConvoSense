@@ -5,8 +5,7 @@ from models.best_model import *
 from eval.auto.utils import (
     load_results,
     save_results,
-    format_data, 
-    SELECTED_ARGS, 
+    format_data,  
     BEAMED_GENERATIONS, 
     load_t5, 
     DataCollatorForT5, 
@@ -116,17 +115,17 @@ if __name__ == '__main__':
     for data_filepath, data in datasets:
         for model_settings in models:
             print('\n' + '#' * 50 + '\n')
-            repetition_penalty = model_settings.repetition_penalty
+            repetition_penalty = model_settings.generation_config.repetition_penalty
             divbeam_dict = dict(
-                num_beams=model_settings.num_beams,
-                num_beam_groups=model_settings.num_beam_groups,
-                diversity_penalty=model_settings.diversity_penalty,
+                num_beams=model_settings.generation_config.num_beams,
+                num_beam_groups=model_settings.generation_config.num_beam_groups,
+                diversity_penalty=model_settings.generation_config.diversity_penalty,
             )
-            modelname = model_settings.modelname
+            modelname = model_settings.name
             formatted_data = load_results(
                 checkpoint_path=model_settings.modelpath,
                 filepath=data_filepath,
-                epoch=model_settings.epoch,
+                epoch=None,
                 modelname=modelname,
                 repetition_penalty=repetition_penalty,
                 divbeam_dict=divbeam_dict,
@@ -135,12 +134,12 @@ if __name__ == '__main__':
             if formatted_data is None:
                 formatted_data = format_data(
                     data=data,
-                    format_string=SELECTED_ARGS[modelname]['format'],
-                    convert_q=SELECTED_ARGS[modelname].get('convert_q', False),
-                    context_length=SELECTED_ARGS[modelname]['context_length'],
-                    to_instr_format=SELECTED_ARGS[modelname]['instruction_format'],
-                    newline_delimiter=SELECTED_ARGS[modelname]['newline_delimiter'],
-                    prefix=SELECTED_ARGS[modelname]['prefix']
+                    format_string=model_settings.data_config.format,
+                    convert_q=True,
+                    context_length=model_settings.data_config.context_length,
+                    to_instr_format=False,
+                    newline_delimiter=True,
+                    prefix=model_settings.data_config.prefix
                 )
                 convert_data_format_per_model(formatted_data, modelname)
             print(model_settings.name)
@@ -149,15 +148,12 @@ if __name__ == '__main__':
             data_updated = False
             if formatted_data is not None and BEAMED_GENERATIONS not in formatted_data[0]:  # beamed generations processing
                 data_updated = True
-                if 't5' in modelname:
-                    model, tokenizer = load_t5(model_settings.modelpath, device='cuda')
-                    gen_data_processor = DataCollatorForT5(
-                        tokenizer=tokenizer,
-                        source_max_len=768,
-                        predict_with_generate=True,
-                    )
-                else:
-                    raise ValueError('Only t5 model is supported!')
+                model, tokenizer = load_t5(model_settings.modelpath, device='cuda')
+                gen_data_processor = DataCollatorForT5(
+                    tokenizer=tokenizer,
+                    source_max_len=768,
+                    predict_with_generate=True,
+                )
                 get_generations(
                     model=model,
                     tokenizer=tokenizer,
@@ -177,7 +173,7 @@ if __name__ == '__main__':
                     formatted_verified_dev_set=formatted_data,
                     checkpoint_path=model_settings.modelpath,
                     filepath=data_filepath,
-                    epoch=model_settings.epoch,
+                    epoch=None,
                     modelname=modelname,
                     repetition_penalty=repetition_penalty,
                     divbeam_dict=divbeam_dict,
@@ -222,7 +218,7 @@ if __name__ == '__main__':
                 formatted_verified_dev_set=formatted_data,
                 checkpoint_path=model_settings.modelpath,
                 filepath=data_filepath,
-                epoch=model_settings.epoch,
+                epoch=None,
                 modelname=modelname,
                 repetition_penalty=repetition_penalty,
                 divbeam_dict=divbeam_dict,

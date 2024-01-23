@@ -133,7 +133,7 @@ def gpt_diversity_eval_of_models():
     print('starting gen...')
     gen_multiprocess(
         tasks=tasks_to_do,
-        procs=5,
+        procs=1,
         file_prefix=dir
     )
 
