@@ -3,8 +3,8 @@ from models.model_settings import GenerationConfig, DataConfig
 from models.t5 import CommonsenseGenerator
 
 GPT_CS_GENERATOR = CommonsenseGenerator(
-    name="convosense_m_star",
-    modelpath=f'{os.path.dirname(__file__)}/convosense_m_star/',
+    name="ConvoSenseGenerator",
+    modelpath=f'sefinch/ConvoSenseGenerator',
     device='cuda',
     use_commonsense=False,
     generation_config=GenerationConfig(

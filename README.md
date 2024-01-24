@@ -8,7 +8,9 @@ In response to these limitations, we compile a new synthetic dataset for commons
 
 Our dataset contains over 500,000 inferences across 12,000 dialogues with 10 popular inference types, which empowers the training of generative commonsense models for dialogue that are superior in producing plausible inferences with high novelty when compared to models trained on the previous datasets. 
 
-We release our dataset ConvoSense and our best-performing dialogue commonsense generative model ConvoSenseM* in this repository.
+:star2: **Trained Model:** Our best-performing ConvoSense-trained model is released through HuggingFace [here](https://huggingface.co/sefinch/ConvoSenseGenerator)!
+
+:star2: **Dataset:** We release our dataset ConvoSense in this repository.
 
 ## Dependencies
 
@@ -58,15 +60,17 @@ HumanGen dataset files are also available at `data/humangen/{train|dev|test}.jso
 
 ## Trained Model
 
-NOTE: Due to its large size, we are still working on directly providing the model checkpoint. For now, if you would like access to the model, please send an email to "sfillwo@emory.edu". 
+:star2: Our best-performing ConvoSense-trained model is released through HuggingFace [here](https://huggingface.co/sefinch/ConvoSenseGenerator)!
 
-Our best-performing ConvoSense-trained model (ConvoSenseM*) is located at `models/convosense_m_star`.
+### Quick Start: Inference
 
-### Inference
+The script at `gen/quick_generation.py` is used for quickly predicting inferences using the trained model. Just modify the `conversation` variable and the `generate` call for your desired commonsense type, and execute the script to see the predicted inferences!
 
-The script at `gen/cs_generation.py` is used for predicting inferences using the trained model.
+### Advanced Usage: Inference
 
-Parsed versions of the ConvoSense data (`data/convosense/{train|dev|test}_onlydialogues.jsonl`) that are compatible with `cs_generation.py` can be compiled by executing `parse_format.py`.
+The script at `gen/generation.py` is used for more advanced usage of the model. Specifically, it targets mass inference generation across a dataset of conversations and all of the covered commonsense types.
+
+As an example, parsed versions of the ConvoSense data (`data/convosense/{train|dev|test}_onlydialogues.jsonl`) that are compatible with `generation.py` can be compiled by executing `parse_format.py`.
 
 Command (with current working directory `data/`): `python parse_format.py`
 
@@ -79,9 +83,9 @@ data = data_loader.load_data(
 )
 ```
 
-This `Dialogues` object is used in the commonsense inference generation script at `gen/cs_generation.py` for predicting inferences using the trained model.
+This `Dialogues` object is used in the commonsense inference generation script at `gen/generation.py` for predicting inferences using the trained model.
 
-To generate inferences for other dialogues, follow the structure of `data/convosense/test_onlydialogues.json` to create a file with your desired dialogues.
+To generate inferences for other dialogue datasets, follow the structure of `data/convosense/test_onlydialogues.json` to create a file with your desired dialogues.
 
 ## Evaluation Results
 

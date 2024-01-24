@@ -8,3 +8,4 @@ data/convosense/
 data/humangen/
 data/soda/
 models/convosense_m_star/
+gen/*.json
