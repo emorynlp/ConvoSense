@@ -1,6 +1,6 @@
 # ConvoSense
 
-Paper: [**ConvoSense:  Overcoming Monotonous Commonsense Inferences for Conversational AI**](https://arxiv.org/pdf/2401.15471.pdf) (TACL 2024)
+Paper: [**ConvoSense:  Overcoming Monotonous Commonsense Inferences for Conversational AI**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00659/120913/ConvoSense-Overcoming-Monotonous-Commonsense) (TACL 2024)
 
 While there have been several attempts to create datasets that facilitate commonsense inferences in dialogue contexts, existing datasets tend to lack in-depth details, restate information already present in the conversation, and often fail to capture the multifaceted nature of commonsense reasoning.
 
